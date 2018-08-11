@@ -1,0 +1,1830 @@
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9a"},"city":"Katra","name":"AMR Multiplex"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9b"},"city":"Bengaluru","locality":"Marathahalli","name":"Innovative Multiplex"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9c"},"city":"Bengaluru","locality":"Orion","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9d"},"city":"Bengaluru","locality":"Whitefield","name":"Q Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9e"},"city":"Bengaluru","locality":"Element Mall","name":"7D Mastii"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33a9f"},"city":"Bengaluru","locality":"Forum Value Mall Whitefield","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa0"},"city":"Bengaluru","locality":"Garuda Mall","name":"7D VR Voyage"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa1"},"city":"Bengaluru","locality":"Central Mall Bellandur","name":"7D Voyage"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa2"},"city":"Bengaluru","locality":"Gandhi Nagar","name":"Abhinay Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa3"},"city":"Bengaluru","locality":"Laggere","name":"Akash Cinemas (Rajeshwari Theatre)"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa4"},"city":"Bengaluru","locality":"Lingarajapuram","name":"Amruth Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa5"},"city":"Bengaluru","locality":"Magadi Road","name":"Anjan Digital 4K A/C Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa6"},"city":"Bengaluru","locality":"Gandhinagar","name":"Anupama Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa7"},"city":"Bengaluru","locality":"Srirampuram","name":"Aruna Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa8"},"city":"Bengaluru","locality":"Chikkabanavara","name":"Ashoka Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aa9"},"city":"Bengaluru","locality":"Tavarekere","name":"Balaji Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aaa"},"city":"Bengaluru","locality":"Gandhinagar","name":"Bhumika Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aab"},"city":"Bengaluru","locality":"Rockline Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aac"},"city":"Bengaluru","locality":"Sankey Road","name":"Cauvery Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aad"},"city":"Bengaluru","locality":"Vidyapeeta Circle","name":"Chandrodaya Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aae"},"city":"Bengaluru","locality":"Binnypet Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aaf"},"city":"Bengaluru","locality":"Orion East Mall Banaswadi","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab0"},"city":"Bengaluru","locality":"Royal Meenakshi Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab1"},"city":"Bengaluru","locality":"Malleshwaram","name":"Cinesquare Savitha Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab2"},"city":"Bengaluru","locality":"Banashankari","name":"Eshwari Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab3"},"city":"Bengaluru","locality":"Frazer Town","name":"Everest Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab4"},"city":"Bengaluru","locality":"MG Road","name":"Fame Shankarnag Chitramandira"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab5"},"city":"Bengaluru","locality":"Sigma Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab6"},"city":"Bengaluru","locality":"Bommanahalli Hosur Rd","name":"Galaxy Paradise Screen 1"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab7"},"city":"Bengaluru","locality":"Screen 2","name":"Galaxy Paradise"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab8"},"city":"Bengaluru","locality":"Arcade Mall Mysore Road","name":"Gopalan Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ab9"},"city":"Bengaluru","locality":"Bannerghatta Road","name":"Gopalan Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aba"},"city":"Bengaluru","locality":"Old Madras Road","name":"Gopalan Grand Mall"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33abb"},"city":"Bengaluru","locality":"Signature Mall Old Madras Road","name":"Gopalan Miniplex"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33abc"},"city":"Bengaluru","locality":"Yeshwantpur","name":"Goverdhan Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33abd"},"city":"Bengaluru","locality":"Jalahalli","name":"HMT Digital 4K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33abe"},"city":"Bengaluru","locality":"Off MG Road Ulsoor","name":"INOX Lido"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33abf"},"city":"Bengaluru","locality":"Brookefield Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac0"},"city":"Bengaluru","locality":"Central JP Nagar Mantri Junction","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac1"},"city":"Bengaluru","locality":"Forum Value Mall Whitefield","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac2"},"city":"Bengaluru","locality":"Garuda Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac3"},"city":"Bengaluru","locality":"Garuda Swagath Mall Jayanagar","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac4"},"city":"Bengaluru","locality":"Mantri Square","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac5"},"city":"Bengaluru","locality":"Banashankari","name":"Kamakya Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac6"},"city":"Bengaluru","locality":"Gandhi Nagar","name":"Kapali Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac7"},"city":"Bengaluru","locality":"Tavarekere","name":"Lakshmi Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac8"},"city":"Bengaluru","locality":"Bannerghatta Road","name":"Maheshwari Digital 4K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ac9"},"city":"Bengaluru","locality":"Konanakunte","name":"Manasa Digital 4K Dolby Atmos"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aca"},"city":"Bengaluru","locality":"Gandhi Nagar","name":"Menaka Talkies"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33acb"},"city":"Bengaluru","locality":"M S Nagar","name":"Mukunda Dolby Atmos"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33acc"},"city":"Bengaluru","locality":"Mathikere","name":"Murali Gokula Digital 4K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33acd"},"city":"Bengaluru","locality":"Hosur Roa","name":"Narasimha Digital 4K Dolby Atmos Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ace"},"city":"Bengaluru","locality":"Gandhi Nagar","name":"Nartaki Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33acf"},"city":"Bengaluru","locality":"Sheshadripuram","name":"Nataraj Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad0"},"city":"Bengaluru","locality":"Rajaji Nagar","name":"Navrang Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad1"},"city":"Bengaluru","locality":"Arena Mahadevapura","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad2"},"city":"Bengaluru","locality":"Forum Gold","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad3"},"city":"Bengaluru","locality":"Forum","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad4"},"city":"Bengaluru","locality":"IMAX VR Bengaluru Whitefield","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad5"},"city":"Bengaluru","locality":"MSR Elements Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad6"},"city":"Bengaluru","locality":"Market City","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad7"},"city":"Bengaluru","locality":"Orion Gold Rajajinagar","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad8"},"city":"Bengaluru","locality":"Pepsi IMAX Koramangala","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ad9"},"city":"Bengaluru","locality":"Soul Spirit Bellandur","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ada"},"city":"Bengaluru","locality":"VR Gold","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33adb"},"city":"Bengaluru","locality":"VR","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33adc"},"city":"Bengaluru","locality":"Vaishnavi Sapphire Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33add"},"city":"Bengaluru","locality":"K.R.Market","name":"Parimala Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ade"},"city":"Bengaluru","locality":"Nagavara","name":"Pruthvi Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33adf"},"city":"Bengaluru","locality":"B.N. Pura","name":"Pushpanjali A/C Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae0"},"city":"Bengaluru","locality":"R.T. Nagar","name":"Radhakrishna Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae1"},"city":"Bengaluru","locality":"Nagarbhavi Circle","name":"Rajarajeshwari Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae2"},"city":"Bengaluru","locality":"Ejipura","name":"Ravi Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae3"},"city":"Bengaluru","locality":"Brigade Road","name":"Rex Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae4"},"city":"Bengaluru","locality":"Malleshwaram","name":"Sampige Digital 2k Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae5"},"city":"Bengaluru","locality":"Shivaji Nagar","name":"Sandeep Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae6"},"city":"Bengaluru","locality":"Madiwal","name":"Sandhya Digital 4K Projection Dolby Atmos"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae7"},"city":"Bengaluru","locality":"Shivaji Nagar","name":"Sangeet Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae8"},"city":"Bengaluru","locality":"Gandhinagar","name":"Santosh Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33ae9"},"city":"Bengaluru","locality":"Gandhi Nagar","name":"Sapna Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aea"},"city":"Bengaluru","locality":"S.P Road","name":"Sharada Cinemas A/C"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aeb"},"city":"Bengaluru","locality":"Viveknagar","name":"Sri Balaji Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aec"},"city":"Bengaluru","locality":"Hosakerehalli","name":"Sri Kokila Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aed"},"city":"Bengaluru","locality":"Bommanahalli","name":"Sri Krishna Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aee"},"city":"Bengaluru","locality":"KR Puram","name":"Sri Krishna Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aef"},"city":"Bengaluru","locality":"J P Nagar","name":"Sri Renuka Prasanna Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af0"},"city":"Bengaluru","locality":"Padmanabanagara","name":"Sri Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af1"},"city":"Bengaluru","locality":"Ullal","name":"Sri Vajreshwari Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af2"},"city":"Bengaluru","locality":"Kengeri","name":"Sri Venkateshwara Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af3"},"city":"Bengaluru","name":"Sri Vinayaka Digital 2K Cinema (D.J.Halli)"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af4"},"city":"Bengaluru","locality":"S.G. Palya","name":"Srinivasa Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af5"},"city":"Bengaluru","locality":"Agara","name":"Thirumala Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af6"},"city":"Bengaluru","locality":"Gandhinagar","name":"Triveni Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af7"},"city":"Bengaluru","locality":"Marathalli","name":"Tulsi Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af8"},"city":"Bengaluru","locality":"Lalbagh Road","name":"Urvashi Digital 4K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33af9"},"city":"Bengaluru","locality":"Sanjaynagar","name":"Vaibhav Digital 4K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33afa"},"city":"Bengaluru","locality":"Uttarahalli","name":"Vaibhavi Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33afb"},"city":"Bengaluru","locality":"Singapura","name":"Vainidhi Digital 2K Cinemas (Chandan)"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33afc"},"city":"Bengaluru","locality":"Uttarahalli","name":"Vaishnavi Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33afd"},"city":"Bengaluru","locality":"Kamala Nagar","name":"Veerabhadreshwara Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33afe"},"city":"Bengaluru","locality":"Magadi Rd","name":"Veeresh Cinemas Screen 1"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33aff"},"city":"Bengaluru","locality":"Magadi Rd","name":"Veeresh Cinemas Screen 2"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b00"},"city":"Bengaluru","locality":"K.R.Puram","name":"Venkateshwara A/c Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b01"},"city":"Bengaluru","locality":"Gollarahatti Magadi Rd","name":"Venkateshwara Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b02"},"city":"Bengaluru","locality":"Avalahalli Girina","name":"Venkateshwara Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b03"},"city":"Bengaluru","locality":"Byatarayanapura","name":"Vijay Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b04"},"city":"Bengaluru","locality":"Garudacharpalya","name":"Vijayalakshmi Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b05"},"city":"Bengaluru","locality":"Harinagar","name":"Vinayaka Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b06"},"city":"Bengaluru","locality":"Kamakshipalya","name":"Vishal A/C Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b07"},"city":"Bengaluru","locality":"Yeshwantpur","name":"Vullas Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b08"},"city":"Kadapa","name":"Apsara A/C DTS"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b09"},"city":"Kadapa","name":"Rahat (Raja) Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0a"},"city":"Kadapa","name":"Tahar Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0b"},"city":"Kanker","name":"Cineworld City Center"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0c"},"city":"Vellore","name":"Alankar Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0d"},"city":"Vellore","name":"Lakshmi Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0e"},"city":"Vellore","name":"Sri Vishnu Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b0f"},"city":"Vellore","name":"Apsara Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b10"},"city":"Vellore","name":"Venus Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b11"},"city":"Khammam","name":"Aditya Thetare"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b12"},"city":"Khammam","name":"Asian Srinivasa"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b13"},"city":"Khammam","name":"Kinnerasani Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b14"},"city":"Khammam","name":"Sri Sunder Max"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b15"},"city":"Khammam","name":"Vinoda Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b16"},"city":"Kottayam","name":"Abhilash Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b17"},"city":"Kottayam","name":"Anand Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b18"},"city":"Kottayam","name":"Anupama Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b19"},"city":"Kottayam","name":"Asha Theatre"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1a"},"city":"Kottayam","name":"Dhanya Remya"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1b"},"city":"Rohtak","name":"Citi Max Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1c"},"city":"Rohtak","locality":"Skytech Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1d"},"city":"Rohtak","name":"RN Cinemas"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1e"},"city":"Rohtak","name":"Shiela Cineplex"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b1f"},"city":"Kesinga","name":"New Galaxy Theater"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b20"},"city":"Dausa","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b21"},"city":"Shadnagar","name":"SVC Ramakrishna"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b22"},"city":"Shadnagar","name":"Sai Baba"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b23"},"city":"Shadnagar","name":"Sri Sai Raja"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b24"},"city":"Nashik","locality":"Divya","name":"Carnival"}
+{"_id":{"$oid":"59073e9144ae4d69f6d33b25"},"city":"Nashik","locality":"City Center","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b26"},"city":"Nashik","locality":"Regimental Plaza","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b27"},"city":"Nashik","locality":"The Zone","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b28"},"city":"Nashik","name":"Damodar Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b29"},"city":"Nashik","name":"INOX Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2a"},"city":"Nashik","name":"Vijayanand Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2b"},"city":"Hyderabad","locality":"Uppal","name":"Asian CineSquare Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2c"},"city":"Hyderabad","locality":"Kukatpally","name":"Asian GPR Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2d"},"city":"Hyderabad","locality":"Kompally","name":"Cineplanet Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2e"},"city":"Hyderabad","locality":"Langer House","name":"Alankar (Pratap Theatre)"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b2f"},"city":"Hyderabad","locality":"Mehdipatnam","name":"Amba Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b30"},"city":"Hyderabad","locality":"Secunderabad","name":"Anjali Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b31"},"city":"Hyderabad","locality":"Kukatpally","name":"Arjun 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b32"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Asian Ganga"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b33"},"city":"Hyderabad","locality":"Moosapet","name":"Asian Lakshmikala Cinepride"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b34"},"city":"Hyderabad","locality":"Attapur","name":"Asian M Cube Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b35"},"city":"Hyderabad","locality":"ECIL","name":"Asian Radhika Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b36"},"city":"Hyderabad","locality":"Chintal","name":"Asian Sha"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b37"},"city":"Hyderabad","locality":"Chintal","name":"Asian Shahensha"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b38"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Asian Shiva"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b39"},"city":"Hyderabad","locality":"Katedan","name":"Asian Swapna 35mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3a"},"city":"Hyderabad","locality":"Katedan","name":"Asian Swapna 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3b"},"city":"Hyderabad","locality":"Madhapur","name":"BR Hitech 70mm 4K Silver Scrn Projection"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3c"},"city":"Hyderabad","locality":"LB Nagar","name":"BVK Multiplex Vijayalakshmi"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3d"},"city":"Hyderabad","locality":"Jeedimetla","name":"Bhujanga 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3e"},"city":"Hyderabad","locality":"Ameerpet","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b3f"},"city":"Hyderabad","locality":"Leonia Shameerpet","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b40"},"city":"Hyderabad","locality":"Miyapur","name":"Cine Town"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b41"},"city":"Hyderabad","locality":"CCPL Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b42"},"city":"Hyderabad","locality":"Manjeera Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b43"},"city":"Hyderabad","locality":"Mantra Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b44"},"city":"Hyderabad","locality":"RTC X Roads","name":"Devi 70mm 4K \u0026 Dolby Atmos"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b45"},"city":"Hyderabad","locality":"Toli Chowki","name":"Galaxy Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b46"},"city":"Hyderabad","locality":"Shamshabad","name":"Ganesh 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b47"},"city":"Hyderabad","locality":"Mallepally","name":"Glory Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b48"},"city":"Hyderabad","locality":"Erragadda","name":"Gokul 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b49"},"city":"Hyderabad","locality":"GVK One Banjara Hills","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4a"},"city":"Hyderabad","locality":"Karmanghat","name":"Indra"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4b"},"city":"Hyderabad","locality":"Ghatkesar","name":"Jagadamba Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4c"},"city":"Hyderabad","locality":"IDA Bolaram","name":"Jyothi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4d"},"city":"Hyderabad","locality":"RC Puram","name":"Jyothi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4e"},"city":"Hyderabad","locality":"Bowenpally","name":"Kalyani Movie Max"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b4f"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Konark"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b50"},"city":"Hyderabad","locality":"Nagaram (Dammaiguda)","name":"Krishna Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b51"},"city":"Hyderabad","locality":"Kachiguda","name":"Kumar Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b52"},"city":"Hyderabad","locality":"Alwal","name":"Lakshmi Kala Mandir"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b53"},"city":"Hyderabad","locality":"Shamshabad","name":"Lakshmi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b54"},"city":"Hyderabad","locality":"Kalasiguda","name":"Manju Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b55"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Megha Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b56"},"city":"Hyderabad","locality":"Bahadurpura","name":"Metro Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b57"},"city":"Hyderabad","locality":"Shalini Shivani","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b58"},"city":"Hyderabad","locality":"Abids","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b59"},"city":"Hyderabad","locality":"Karmanghat","name":"Nagendra"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5a"},"city":"Hyderabad","locality":"Alwal","name":"Nartaki Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5b"},"city":"Hyderabad","locality":"Kukatpally","name":"PVR Forum Sujana Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5c"},"city":"Hyderabad","locality":"Inorbit Cyberabad","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5d"},"city":"Hyderabad","locality":"Panjagutta","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5e"},"city":"Hyderabad","locality":"RK Cineplex","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b5f"},"city":"Hyderabad","locality":"Kachiguda","name":"Padmavati Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b60"},"city":"Hyderabad","name":"Prasads"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b61"},"city":"Hyderabad","locality":"Large Screen","name":"Prasads"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b62"},"city":"Hyderabad","locality":"Secunderabad","name":"Prashant Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b63"},"city":"Hyderabad","locality":"Malleypally","name":"Priya Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b64"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Rajdhani 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b65"},"city":"Hyderabad","locality":"Uppal","name":"Rajyalakshmi 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b66"},"city":"Hyderabad","locality":"Abids","name":"Ramakrishna 70MM - Indra Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b67"},"city":"Hyderabad","locality":"Jeedimetla","name":"Ranga Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b68"},"city":"Hyderabad","locality":"Patancheru","name":"Rukmini Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b69"},"city":"Hyderabad","locality":"Patancheru","name":"SSV Cine Park"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6a"},"city":"Hyderabad","locality":"RC Puram","name":"SVC Sangeetha Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6b"},"city":"Hyderabad","locality":"Kapra","name":"SVR's Siva Sakthi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6c"},"city":"Hyderabad","locality":"Miyapur","name":"Sai Ranga"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6d"},"city":"Hyderabad","locality":"Vanasthalipuram","name":"Sampoorna 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6e"},"city":"Hyderabad","locality":"RTC X Road","name":"Sandhya 35mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b6f"},"city":"Hyderabad","locality":"RTC X Roads","name":"Sandhya 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b70"},"city":"Hyderabad","locality":"Abids","name":"Santosh Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b71"},"city":"Hyderabad","locality":"Ibrahimpatnam","name":"Santosh Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b72"},"city":"Hyderabad","locality":"Abids","name":"Sapna Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b73"},"city":"Hyderabad","locality":"RTC X Roads","name":"Sapthagiri Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b74"},"city":"Hyderabad","locality":"Ameerpet","name":"Satyam Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b75"},"city":"Hyderabad","locality":"Bolaram","name":"Select Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b76"},"city":"Hyderabad","locality":"Khairatabad","name":"Sensation Insomnia"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b77"},"city":"Hyderabad","locality":"Khairatabad","name":"Sensation Sunshine"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b78"},"city":"Hyderabad","name":"Shama Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b79"},"city":"Hyderabad","locality":"Narayanaguda","name":"Shanti Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7a"},"city":"Hyderabad","locality":"Kapra","name":"Sharada 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7b"},"city":"Hyderabad","locality":"Kukatpally","name":"Shiva Parvathi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7c"},"city":"Hyderabad","locality":"Bahadurpura","name":"Sree Rama Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7d"},"city":"Hyderabad","locality":"Amberpet","name":"Sree Ramana 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7e"},"city":"Hyderabad","locality":"Amberpet","name":"Sree Ramana Digital 35mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b7f"},"city":"Hyderabad","locality":"Suraram","name":"Sree Sai Puja"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b80"},"city":"Hyderabad","locality":"Musheerabad","name":"Sree Sai Raja Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b81"},"city":"Hyderabad","locality":"Uppal","name":"Sri Krishna 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b82"},"city":"Hyderabad","locality":"Aliabad (Shameerpet)","name":"Sri Krishna Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b83"},"city":"Hyderabad","locality":"Karmanghat","name":"Sri Lakshmi Deluxe"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b84"},"city":"Hyderabad","locality":"RTC X Roads","name":"Sri Mayuri Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b85"},"city":"Hyderabad","locality":"Tukkuguda","name":"Sri Prema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b86"},"city":"Hyderabad","locality":"Malkajgiri","name":"Sri Sai Ram Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b87"},"city":"Hyderabad","locality":"Keesara","name":"Sri Venkata Sai 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b88"},"city":"Hyderabad","locality":"Chilakalguda","name":"Sridevi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b89"},"city":"Hyderabad","locality":"Chanda Nagar","name":"Srilatha and Sridevi Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8a"},"city":"Hyderabad","locality":"Uppal","name":"Srinivasa Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8b"},"city":"Hyderabad","locality":"RTC X Roads","name":"Sudarshan 35mm 4k \u0026 Dolby Atmos"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8c"},"city":"Hyderabad","locality":"Balapur","name":"Super Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8d"},"city":"Hyderabad","locality":"Vanasthalipuram","name":"Sushma Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8e"},"city":"Hyderabad","locality":"Kushaiguda","name":"Talluri Theatres"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b8f"},"city":"Hyderabad","locality":"Kachiguda","name":"Tarakarama Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b90"},"city":"Hyderabad","locality":"Extreem","name":"Tivoli Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b91"},"city":"Hyderabad","name":"Tivoli Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b92"},"city":"Hyderabad","locality":"Dilsukhnagar","name":"Venkatadri Cinema 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b93"},"city":"Hyderabad","locality":"Kachiguda","name":"Venkataramana Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b94"},"city":"Hyderabad","locality":"Borabanda","name":"Vijetha 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b95"},"city":"Hyderabad","locality":"Balanagar","name":"Vimal 70mm"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b96"},"city":"Hyderabad","locality":"Vanasthalipuram","name":"Vishnu Cinemas A/C DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b97"},"city":"Hyderabad","locality":"Nacharam","name":"Vyjayanthi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b98"},"city":"Hyderabad","locality":"Santosh Nagar","name":"Yadagiri Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b99"},"city":"Ponnur","name":"P.V.S. Dts Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9a"},"city":"Ponnur","name":"Sri Lakshmi A/c DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9b"},"city":"Roorkee","name":"Neelam Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9c"},"city":"Roorkee","name":"R R Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9d"},"city":"Muzaffarpur","locality":"Amar Jyoti","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9e"},"city":"Ghatanji","name":"Govind Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33b9f"},"city":"Ankleshwar","name":"Ragini Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba0"},"city":"Jatni","name":"Veena Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba1"},"city":"Anchal","name":"Archana Cinemas AC Dolby Atmos"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba2"},"city":"Anchal","name":"Varsha Royal Suite"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba3"},"city":"Anchal","name":"Varsha Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba4"},"city":"Mahad","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba5"},"city":"Bidadi","name":"Deepak Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba6"},"city":"Indapur","name":"Keshar Cinea"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba7"},"city":"Indapur","name":"Rahul Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba8"},"city":"Sadasivpet","name":"Jyothi 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ba9"},"city":"Sadasivpet","name":"Maheshwari 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33baa"},"city":"Rajpur","name":"Trimurti Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bab"},"city":"Narayankhed","name":"Venkateswara Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bac"},"city":"Purulia","name":"V Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bad"},"city":"Muvattupuzha","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bae"},"city":"Mumbai","locality":"Jogeshwari","name":"24 Karat"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33baf"},"city":"Mumbai","locality":"Thane","name":"Anand Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb0"},"city":"Mumbai","locality":"Ulhasnagar","name":"Ashok Anil Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb1"},"city":"Mumbai","locality":"Vile Parle (E)","name":"Bahar Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb2"},"city":"Mumbai","locality":"Kopar Khairane","name":"Balaji Movieplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb3"},"city":"Mumbai","locality":"Kurla (W)","name":"Bharat Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb4"},"city":"Mumbai","locality":"Annex Mall Borivali","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb5"},"city":"Mumbai","locality":"Dreams Mall Bhandup","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb6"},"city":"Mumbai","locality":"Dreams Mall Vasai","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb7"},"city":"Mumbai","locality":"Funcity Ulhasnagar","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb8"},"city":"Mumbai","locality":"Harmony Mall Oshiwara","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bb9"},"city":"Mumbai","locality":"Huma Kanjurmarg","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bba"},"city":"Mumbai","locality":"IMAX Screen Wadala","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bbb"},"city":"Mumbai","locality":"IMAX Wadala","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bbc"},"city":"Mumbai","locality":"Little World Mall Kharghar","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bbd"},"city":"Mumbai","locality":"Moviestar","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bbe"},"city":"Mumbai","locality":"R Mall Mulund","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bbf"},"city":"Mumbai","locality":"Sangam","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc0"},"city":"Mumbai","locality":"Girgaon","name":"Central Plaza"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc1"},"city":"Mumbai","locality":"Juhu","name":"Chandan Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc2"},"city":"Mumbai","locality":"Dadar (E)","name":"Chitra Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc3"},"city":"Mumbai","locality":"High Street Mall Thane","name":"CinemaStar"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc4"},"city":"Mumbai","locality":"Andheri (E)","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc5"},"city":"Mumbai","locality":"Eternity Mall Thane","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc6"},"city":"Mumbai","locality":"Goregaon (W)","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc7"},"city":"Mumbai","locality":"Infiniti Mall Malad (W)","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc8"},"city":"Mumbai","locality":"Kalyan","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bc9"},"city":"Mumbai","locality":"Mira Road","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bca"},"city":"Mumbai","locality":"R Odeon Mall Ghatkopar (E)","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bcb"},"city":"Mumbai","locality":"Wonder Mall Thane","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bcc"},"city":"Mumbai","locality":"4DX Viviana Mall Thane","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bcd"},"city":"Mumbai","locality":"Fun Republic Mall Andheri (W)","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bce"},"city":"Mumbai","locality":"IMAX Viviana Mall Thane","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bcf"},"city":"Mumbai","locality":"Magnet Mall Bhandup (W)","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd0"},"city":"Mumbai","locality":"VIP Viviana Mall Thane","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd1"},"city":"Mumbai","locality":"Viviana Mall Thane","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd2"},"city":"Mumbai","locality":"Mahim","name":"Citylight Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd3"},"city":"Mumbai","locality":"Lower Parel","name":"Deepak Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd4"},"city":"Mumbai","locality":"K Star Mall Chembur","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd5"},"city":"Mumbai","locality":"Sanpada","name":"Fun Square Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd6"},"city":"Mumbai","locality":"Gaiety Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd7"},"city":"Mumbai","locality":"Galaxy Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd8"},"city":"Mumbai","locality":"Gem Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bd9"},"city":"Mumbai","locality":"Gemini Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bda"},"city":"Mumbai","locality":"Glamour Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bdb"},"city":"Mumbai","locality":"Gossip Bandra (W)","name":"G7 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bdc"},"city":"Mumbai","locality":"Shivaji Road Thane (W)","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bdd"},"city":"Mumbai","locality":"Dadar (E)","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bde"},"city":"Mumbai","locality":"Santacruz (W)","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bdf"},"city":"Mumbai","locality":"Sona Borivali (E)","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be0"},"city":"Mumbai","locality":"Dombivali","name":"Gopi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be1"},"city":"Mumbai","locality":"CR2","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be2"},"city":"Mumbai","locality":"Glomax Mall Kharghar","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be3"},"city":"Mumbai","locality":"Inorbit Mall Malad (W)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be4"},"city":"Mumbai","locality":"Korum Mall Eastern Express Highway Thane","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be5"},"city":"Mumbai","locality":"Metro Mall Junction Kalyan (E)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be6"},"city":"Mumbai","locality":"Nakshatra Mall Dadar (W)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be7"},"city":"Mumbai","locality":"Neelyog Ghatkopar (E)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be8"},"city":"Mumbai","locality":"R-City Ghatkopar","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33be9"},"city":"Mumbai","locality":"Raghuleela Mall Kandivali (W)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bea"},"city":"Mumbai","locality":"Raghuleela Mall Vashi","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33beb"},"city":"Mumbai","locality":"Thakur Mall Dahisar","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bec"},"city":"Mumbai","locality":"Thakur Movie Kandivali (E)","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bed"},"city":"Mumbai","locality":"Vasai (W)","name":"K Movie Star Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bee"},"city":"Mumbai","locality":"Kamothe","name":"K.K. Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bef"},"city":"Mumbai","locality":"Vasai (W)","name":"K.T. Vision Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf0"},"city":"Mumbai","locality":"Malad","name":"Kasturba Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf1"},"city":"Mumbai","locality":"Bandra (W)","name":"Le Reve (Globus)"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf2"},"city":"Mumbai","locality":"Marine Lines","name":"Liberty Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf3"},"city":"Mumbai","locality":"Mumbai Central","name":"Maratha Mandir"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf4"},"city":"Mumbai","locality":"Nerul","name":"Max Movies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf5"},"city":"Mumbai","locality":"Bhayander","name":"Maxus Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf6"},"city":"Mumbai","locality":"Borivali (W)","name":"Maxus Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf7"},"city":"Mumbai","locality":"Saki Naka","name":"Maxus Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf8"},"city":"Mumbai","locality":"Marine Lines","name":"Metro INOX Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bf9"},"city":"Mumbai","locality":"Goregaon (E)","name":"Miraj Anupam Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bfa"},"city":"Mumbai","locality":"Panvel","name":"Miraj Cineraj Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bfb"},"city":"Mumbai","locality":"Vasai","name":"Miraj Dattani Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bfc"},"city":"Mumbai","locality":"Nallasopara","name":"Miraj Fun Fiesta Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bfd"},"city":"Mumbai","locality":"Kandivali (E)","name":"Miraj Thakur Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bfe"},"city":"Mumbai","locality":"Chembur","name":"Movietime Cubic Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33bff"},"city":"Mumbai","locality":"Matunga (W)","name":"Movietime Star City"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c00"},"city":"Mumbai","locality":"Bandra (W)","name":"Movietime Suburbia"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c01"},"city":"Mumbai","locality":"Dahisar (E)","name":"Movietime"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c02"},"city":"Mumbai","locality":"Malad","name":"Movietime"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c03"},"city":"Mumbai","locality":"The Hub","name":"Movietime"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c04"},"city":"Mumbai","locality":"Jai Hind","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c05"},"city":"Mumbai","locality":"K Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c06"},"city":"Mumbai","locality":"Topiwala","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c07"},"city":"Mumbai","locality":"National Library Road","name":"Nandi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c08"},"city":"Mumbai","locality":"Chembur","name":"Natraj Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c09"},"city":"Mumbai","locality":"Fort","name":"New Excelsior Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0a"},"city":"Mumbai","locality":"Kharghar","name":"Oracle Fun Square"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0b"},"city":"Mumbai","locality":"Versova","name":"PVR ICON"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0c"},"city":"Mumbai","locality":"Versova (Gold)","name":"PVR ICON"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0d"},"city":"Mumbai","locality":"Citi Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0e"},"city":"Mumbai","locality":"Dynamix","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c0f"},"city":"Mumbai","locality":"Growel","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c10"},"city":"Mumbai","locality":"Lodha Xperia","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c11"},"city":"Mumbai","locality":"Market City","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c12"},"city":"Mumbai","locality":"Milap","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c13"},"city":"Mumbai","locality":"Nirmal Lifestyle","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c14"},"city":"Mumbai","locality":"Oberoi Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c15"},"city":"Mumbai","locality":"Orion Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c16"},"city":"Mumbai","locality":"Phoenix","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c17"},"city":"Mumbai","locality":"Sion","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c18"},"city":"Mumbai","locality":"Sona Shopping Centre","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c19"},"city":"Mumbai","locality":"Mahim","name":"Paradise E-Square Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1a"},"city":"Mumbai","locality":"Dadar","name":"Plaza Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1b"},"city":"Mumbai","locality":"Dongri","name":"Premier Gold"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1c"},"city":"Mumbai","locality":"Dadar (E)","name":"Premiere Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1d"},"city":"Mumbai","locality":"Kalanagar","name":"RNA Play Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1e"},"city":"Mumbai","locality":"Mira Road","name":"Rassaz Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c1f"},"city":"Mumbai","locality":"Colaba","name":"Regal Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c20"},"city":"Mumbai","locality":"Charni Road","name":"Roxy Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c21"},"city":"Mumbai","locality":"Kalyan (W)","name":"SM5 Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c22"},"city":"Mumbai","locality":"Malad","name":"Sangeeta Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c23"},"city":"Mumbai","locality":"Dadar (E)","name":"Sharada Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c24"},"city":"Mumbai","locality":"Ambarnath (W)","name":"Star Big Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c25"},"city":"Mumbai","locality":"Fort","name":"Sterling Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c26"},"city":"Mumbai","locality":"Vile Parle","name":"Sun City"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c27"},"city":"Mumbai","locality":"Grant Road","name":"Super Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c28"},"city":"Mumbai","locality":"Dombivali","name":"Tilak Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c29"},"city":"Mumbai","locality":"Virar (W)","name":"Woodland Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2a"},"city":"Muniguda","name":"Padmalaya Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2b"},"city":"Narsipatnam","name":"Raju Delux A/c Dts"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2c"},"city":"Bareilly","name":"SRS Phoenix Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2d"},"city":"Bareilly","name":"Starworld Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2e"},"city":"Bareilly","name":"Natraj Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c2f"},"city":"Bareilly","name":"Prabha Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c30"},"city":"Bareilly","name":"Prasad Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c31"},"city":"Palghar","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c32"},"city":"Madhira","name":"Shanthi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c33"},"city":"Goa","locality":"Old GMC DB Road Panaji","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c34"},"city":"Goa","locality":"Osia G Wing Margao","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c35"},"city":"Goa","locality":"Porvorim","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c36"},"city":"Goa","locality":"Marcela","name":"Cine World"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c37"},"city":"Goa","locality":"Osia A Wing Margao","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c38"},"city":"Goa","locality":"Vasco","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c39"},"city":"Goa","locality":"Margao","name":"Z Square Cine Lata"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3a"},"city":"Goa","locality":"Curchorem","name":"Z Square Cine Niagara"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3b"},"city":"Goa","locality":"Panaji","name":"Z Square Cine Samrat Ashok"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3c"},"city":"Goa","locality":"Margao","name":"Z Square Cine Vishant"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3d"},"city":"Goa","locality":"Bicholim","name":"Z Square Hira Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3e"},"city":"Salem","name":"ARRS Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c3f"},"city":"Salem","name":"Kailash Prakash"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c40"},"city":"Salem","name":"Keerthana Ramana"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c41"},"city":"Salem","name":"Kasthoori Cinemas Gowri 2K A/C DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c42"},"city":"Salem","name":"Raja Sabari Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c43"},"city":"Salem","name":"Sangeeth Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c44"},"city":"Karnal","name":"Movietime"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c45"},"city":"Bargarh","name":"Rukmini Cineplex New Screen 1"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c46"},"city":"Bargarh","name":"Rukmini Cineplex Screen 2"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c47"},"city":"Bargarh","name":"Uma Galaxy( Digital Silver Screen )"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c48"},"city":"Beed","name":"E-SQUARE Santoshimata"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c49"},"city":"Athagarh","name":"Ganesh Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4a"},"city":"Etawah","name":"Fun Cine Plaza"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4b"},"city":"Pathanamthitta","locality":"Ranni","name":"Capitol Upasana Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4c"},"city":"Pathanamthitta","name":"Dhanya Remya"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4d"},"city":"Pathanamthitta","name":"Trinity Movie Max - Aishwarya"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4e"},"city":"Pathanamthitta","name":"Trinity Movie Max"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c4f"},"city":"Singrauli","locality":"Waidhan","name":"MCM Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c50"},"city":"Mathura","locality":"Pacific Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c51"},"city":"Mathura","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c52"},"city":"Idukki","name":"Greenland Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c53"},"city":"Devakottai","name":"Lakshmi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c54"},"city":"Firozpur","name":"Silverbird Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c55"},"city":"Jodhpur","locality":"Blue City Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c56"},"city":"Jodhpur","locality":"Ansal Royal Plaza","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c57"},"city":"Jodhpur","name":"Miraj Bioscope Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c58"},"city":"Aurangabad","locality":"Anjali","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c59"},"city":"Aurangabad","name":"E-SQUARE Abhinay"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5a"},"city":"Aurangabad","locality":"Prozone Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5b"},"city":"Aurangabad","name":"Amba Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5c"},"city":"Aurangabad","name":"Apsara Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5d"},"city":"Aurangabad","name":"INOX Tapadia"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5e"},"city":"Aurangabad","locality":"Reliance Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c5f"},"city":"Aurangabad","locality":"Nupur","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c60"},"city":"Aurangabad","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c61"},"city":"Khargone","name":"Saaj Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c62"},"city":"Dindigul","locality":"Aarthi Grand","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c63"},"city":"Dindigul","locality":"Lakshmi \u0026 Naga","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c64"},"city":"Dinidigul","locality":"Chinnalapatti","name":"J Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c65"},"city":"Varanasi","locality":"IP Sigra Mall","name":"IP Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c66"},"city":"Varanasi","locality":"IP Vijaya Mall","name":"IP Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c67"},"city":"Varanasi","name":"JHV Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c68"},"city":"Varanasi","name":"PDR Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c69"},"city":"Korba","name":"Chitra Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6a"},"city":"Korba","name":"Niharika Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6b"},"city":"Kekri","name":"Sanwariya Cine World"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6c"},"city":"Pondicherry","name":"Balaji Theatre 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6d"},"city":"Pondicherry","locality":"Jeeva Rukmani","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6e"},"city":"Pondicherry","name":"Muruga Theatre A/C QUBE 2K DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c6f"},"city":"Rewa","name":"Aakriti Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c70"},"city":"Rewa","name":"Carnival Jhankar"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c71"},"city":"Rewa","name":"Samdareeya Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c72"},"city":"Khanna","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c73"},"city":"Ariyalur","name":"Mahasakthi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c74"},"city":"Bahraich","name":"Kumar Picture Palace"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c75"},"city":"Balasore","name":"MovieEX Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c76"},"city":"Balasore","name":"Odean Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c77"},"city":"Addanki","name":"VNS Mini Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c78"},"city":"Gwalior","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c79"},"city":"Gwalior","locality":"DD City Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7a"},"city":"Mirzapur","name":"Rajshree Starworld Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7b"},"city":"Mirzapur","locality":"Mughal Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7c"},"city":"Kodungallur","name":"Sreekaleeswary Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7d"},"city":"Dindigul","locality":"Ayyampalayam","name":"Alagesan Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7e"},"city":"Dindigul","locality":"Nilakottai","name":"SM Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c7f"},"city":"Batlagundu","name":"V Max Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c80"},"city":"Bodinayakanur","locality":"Bodi","name":"Arra Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c81"},"city":"Baloda Bazar","name":"Shiva Bollywood Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c82"},"city":"Ghazipur","name":"Suhasini Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c83"},"city":"Titagarh","name":"Laxmi Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c84"},"city":"Bijoynagar","name":"Silver Screen Digital Cinema Hall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c85"},"city":"Kundli","locality":"Ansal","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c86"},"city":"Kundli","locality":"Parker Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c87"},"city":"Kundli","locality":"TDI Mall","name":"Q Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c88"},"city":"Jharsuguda","name":"Shiva Miniplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c89"},"city":"Jharsuguda","name":"Shiva Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8a"},"city":"Davuluru","name":"Shivaram A/C Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8b"},"city":"Sivaganga","name":"JP Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8c"},"city":"Sivaganga","locality":"Singampunari","name":"Raja Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8d"},"city":"Sivaganga","locality":"Sivagangai","name":"Ravibala Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8e"},"city":"Sivaganga","locality":"Kalayar Kovil","name":"Venkateshwara Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c8f"},"city":"Vijayawada","name":"Alankar Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c90"},"city":"Vijayawada","name":"Annapurna Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c91"},"city":"Vijayawada","name":"Balaji Cine Villa"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c92"},"city":"Vijayawada","locality":"Trendset Mall","name":"Capital Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c93"},"city":"Vijayawada","locality":"PVP Square Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c94"},"city":"Vijayawada","locality":"LEPL Icon","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c95"},"city":"Vijayawada","locality":"Urvasi Complex","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c96"},"city":"Vijayawada","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c97"},"city":"Vijayawada","name":"Navarang Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c98"},"city":"Vijaywada","locality":"Ripples","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c99"},"city":"Vijayawada","locality":"Payakapuram","name":"Ravindra Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9a"},"city":"Vijayawada","name":"Sakuntala Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9b"},"city":"Vijayawada","locality":"PNBS","name":"Y Screens"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9c"},"city":"Rajgangpur","name":"Milan Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9d"},"city":"Akluj","name":"Shriram Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9e"},"city":"Aswaraopeta","name":"Venkata Durga Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33c9f"},"city":"Kesamudram","name":"Mohan Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca0"},"city":"Yamunanagar","locality":"Upal Universal Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca1"},"city":"Palampur","name":"Surya Viraj Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca2"},"city":"Palampur","name":"Yaashitaa Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca3"},"city":"Thrissur","name":"Ganam Cinema Dolby 7.1 Qube"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca4"},"city":"Thrissur","locality":"Sobha City Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca5"},"city":"Thrissur","locality":"Pazhayannur","name":"Shadow Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca6"},"city":"Sathupally","name":"Sai Balaji Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca7"},"city":"Lucknow","locality":"One Awadh Center","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca8"},"city":"Lucknow","locality":"Phoenix","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ca9"},"city":"Lucknow","name":"SRS City Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33caa"},"city":"Lucknow","name":"Anand Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cab"},"city":"Lucknow","name":"Anjuman Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cac"},"city":"Lucknow","locality":"Fun Republic Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cad"},"city":"Lucknow","locality":"Riverside Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cae"},"city":"Lucknow","locality":"Lalbagh","name":"Novelty Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33caf"},"city":"Lucknow","locality":"Saharaganj Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb0"},"city":"Lucknow","locality":"Singapore Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb1"},"city":"Lucknow","name":"Pratibha Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb2"},"city":"Lucknow","name":"Shubham Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb3"},"city":"Lucknow","name":"Sudarshan Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb4"},"city":"Lucknow","locality":"The Wave Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb5"},"city":"Berhampore","name":"Silver Screen"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb6"},"city":"Guwahati","name":"Anuradha Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb7"},"city":"Guwahati","name":"Apsara Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb8"},"city":"Guwahati","name":"Galleria Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cb9"},"city":"Guwahati","locality":"Lakhtokia","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cba"},"city":"Guwahati","locality":"Narengi","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cbb"},"city":"Guwahati","locality":"Paltan Bazar","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cbc"},"city":"Guwahati","name":"Grande Cines"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cbd"},"city":"Guwahati","locality":"Dona Planet","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cbe"},"city":"Udupi","name":"Diana Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cbf"},"city":"Rajkot","locality":"Crystal Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc0"},"city":"Rajkot","name":"Cosmoplex Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc1"},"city":"Rajkot","name":"Galaxy Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc2"},"city":"Rajkot","locality":"Rajkot R World","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc3"},"city":"Rajkot","locality":"Reliance Mega Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc4"},"city":"Rajkot","name":"Rajshri Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc5"},"city":"Akaltara","name":"DL Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc6"},"city":"Sattenapalle","name":"Lakshmi Theatre A/C"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc7"},"city":"Sattenapalle","name":"Sai Krishna Theater A/C"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc8"},"city":"Madurai","name":"Abirami Cinemas Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cc9"},"city":"Madurai","name":"Ambiga Cinemas CHRISTIE 4K 7.1"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cca"},"city":"Madurai","name":"Amirtham Cinema SONY 4K DOLBY"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ccb"},"city":"Madurai","name":"Ganesh Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ccc"},"city":"Madurai","name":"Guru Cinemas SONY 4K"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ccd"},"city":"Madurai","locality":"Vishaal De Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cce"},"city":"Madurai","name":"Jazz \u0026 Arsh"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ccf"},"city":"Madurai","locality":"Vandiyur","name":"Kallanai Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd0"},"city":"Madurai","locality":"Nagamalai Puthukottai","name":"Kasi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd1"},"city":"Madurai","name":"Palani Arumuga Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd2"},"city":"Madurai","name":"Sakthi Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd3"},"city":"Madurai","name":"Shanmuga Cine Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd4"},"city":"Madurai","name":"Sree Palani Murugan Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd5"},"city":"Madurai","name":"Tamil Jaya Cinemas SONY 4K Dolby Digital"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd6"},"city":"Madurai","name":"Thanga Regal Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd7"},"city":"Sirsa","name":"OHM Cine Garden"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd8"},"city":"Rudrapur","name":"Chawla Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cd9"},"city":"Rudrapur","name":"Fun Cinemas Rave Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cda"},"city":"Rudrapur","name":"Wave"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cdb"},"city":"Mavellikara","locality":"Vallakali Cine Complex","name":"Sandra"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cdc"},"city":"Mavellikara","locality":"Vallakali Cine Complex","name":"Santhosh"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cdd"},"city":"Mavellikara","name":"Vallakalil Cine Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cde"},"city":"Vadodara","name":"Alpana Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cdf"},"city":"Vadodara","name":"Bansal Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce0"},"city":"Vadodara","name":"Chandan Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce1"},"city":"Vadodara","locality":"Pratapnagar","name":"Cinemarc Vihar"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce2"},"city":"Vadodara","locality":"Akota","name":"Cinemarc"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce3"},"city":"Vadodara","locality":"New VIP Road","name":"Cinemarc"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce4"},"city":"Vadodara","locality":"Cinemall","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce5"},"city":"Vadodara","locality":"Inorbit Vadodara Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce6"},"city":"Vadodara","locality":"Race Course Circle","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce7"},"city":"Vadodara","locality":"Reliance Mega Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce8"},"city":"Vadodara","locality":"Seven Seas Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ce9"},"city":"Vadodara","locality":"Dabhoi","name":"Krishna Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cea"},"city":"Vadodara","locality":"SWC Mall","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ceb"},"city":"Vadodara","locality":"Centre Square Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cec"},"city":"Vadodara","locality":"Deep","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33ced"},"city":"Vadodara","locality":"EVA Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cee"},"city":"Vadodara","locality":"TransCube","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cef"},"city":"Vadodara","name":"Pratap Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf0"},"city":"Vadodara","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf1"},"city":"Howrah","locality":"Forum Rangoli Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf2"},"city":"Howrah","locality":"Liluah","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf3"},"city":"Bagbahara","name":"City Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf4"},"city":"Dhamnod","name":"Ajanta Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf5"},"city":"Cherla","name":"Raghu Picture Palace"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf6"},"city":"Ratnagiri","name":"City Pride Radhakrishna"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf7"},"city":"Meerut","name":"Apsara Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf8"},"city":"Meerut","locality":"Magnum Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cf9"},"city":"Meerut","locality":"PVS Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cfa"},"city":"Meerut","name":"Nandan Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cfb"},"city":"Meerut","name":"Wave"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cfc"},"city":"Manuguru","name":"Satya Bhaskara Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cfd"},"city":"Baddi","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cfe"},"city":"Aruppukottai","name":"Impala Tamilmani A/c DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33cff"},"city":"Aruppukottai","name":"Sri Lakshmi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d00"},"city":"Phalodi","name":"NK Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d01"},"city":"Phalodi","name":"Shree Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d02"},"city":"Ghaziabad","locality":"RED Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d03"},"city":"Ghaziabad","locality":"Indirapuram","name":"SRS Jaipuria Mall"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d04"},"city":"Ghaziabad","locality":"Ansal Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d05"},"city":"Ghaziabad","locality":"Pacific Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d06"},"city":"Ghaziabad","locality":"World Square Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d07"},"city":"Ghaziabad","name":"Galaxie Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d08"},"city":"Ghaziabad","locality":"Shipra Mall","name":"JAM Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d09"},"city":"Ghaziabad","name":"Miraj Chaudhary Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0a"},"city":"Ghaziabad","name":"Movie Magic Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0b"},"city":"Ghaziabad","name":"Movie Palace"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0c"},"city":"Ghaziabad","name":"Movie World"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0d"},"city":"Ghaziabad","locality":"EDM","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0e"},"city":"Ghaziabad","locality":"Mahagun","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d0f"},"city":"Ghaziabad","locality":"Opulent","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d10"},"city":"Ghaziabad","name":"Silvercity Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d11"},"city":"Ghaziabad","locality":"Vaishali","name":"Star X Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d12"},"city":"Ghaziabad","locality":"Indirapuram Eros Marketp","name":"U S Cinemas Eminence Cut"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d13"},"city":"Ghaziabad","locality":"Indirapuram Eros Marketplace","name":"U S Cinemas Europa"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d14"},"city":"Ghaziabad","locality":"RDC","name":"Wave"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d15"},"city":"Ghaziabad","locality":"The Wave Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d16"},"city":"Bikaner","locality":"Cinemagic","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d17"},"city":"Bikaner","name":"Suraj Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d18"},"city":"Gandhinagar","locality":"Kalol","name":"Movieplex Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d19"},"city":"Bhilwara","locality":"City Centre Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1a"},"city":"Bhilwara","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1b"},"city":"Agra","name":"Bhagwan Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1c"},"city":"Agra","locality":"TDI Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1d"},"city":"Agra","name":"Chitra Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1e"},"city":"Agra","name":"Meher Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d1f"},"city":"Agra","name":"Panna Palace"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d20"},"city":"Agra","name":"Rajeev Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d21"},"city":"Agra","name":"SRS SARV Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d22"},"city":"Agra","name":"Sanjay Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d23"},"city":"Agra","name":"Shree Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d24"},"city":"Angamaly","locality":"KSRT Comple","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d25"},"city":"Jabalpur","locality":"South Avenue Mall","name":"Movie Magic"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d26"},"city":"Jabalpur","name":"Samdareeya Era Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d27"},"city":"Kochi","locality":"Perumbavoor","name":"Aashirvad Cineplexx"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d28"},"city":"Kochi","locality":"Aluva","name":"Casino Talkies A/C 2K 3D"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d29"},"city":"Kochi","locality":"Thrippunithura","name":"Central Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2a"},"city":"Kochi","locality":"Oberon","name":"Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2b"},"city":"Kochi","locality":"Centre Square Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2c"},"city":"Kochi","locality":"VIP Centre Square Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2d"},"city":"Kochi","locality":"Ernakulam","name":"EVM Kavitha Theatre 2K UFO"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2e"},"city":"Kochi","locality":"Aluva","name":"Matha Madhurya Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d2f"},"city":"Kochi","locality":"Lulu","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d30"},"city":"Kochi","locality":"Ernakulam","name":"Padma Cinema Screen 1"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d31"},"city":"Kochi","locality":"Ernakulam","name":"Padma Cinema Screen 2"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d32"},"city":"Kochi","locality":"Nucleus Mall","name":"Pan Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d33"},"city":"Kochi","locality":"Gold Souk Grande","name":"Q Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d34"},"city":"Kochi","name":"Sarita Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d35"},"city":"Kochi","locality":"Ernakulam","name":"Sridar Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d36"},"city":"Kochi","locality":"Edapally","name":"Vanitha Movie House"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d37"},"city":"Kochi","locality":"Aluva","name":"Zeenath Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d38"},"city":"Pen","locality":"Moreshwar","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d39"},"city":"Shrirampur","name":"Kishor Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3a"},"city":"Parigi","name":"Sai Krishna"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3b"},"city":"Parigi","name":"Sharada 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3c"},"city":"Kandukur","name":"Raghava Multiplex 7.1 DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3d"},"city":"Sanawad","name":"RJ Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3e"},"city":"Dholpur","locality":"Bari","name":"Anoop Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d3f"},"city":"Nagarkurnool","name":"RamaKrishna Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d40"},"city":"Nagarkurnool","name":"Ravi Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d41"},"city":"Nagarkurnool","name":"Sri Ramana Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d42"},"city":"Thalayolaparambu","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d43"},"city":"Tiruchendur","name":"Krishna Silver Screens"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d44"},"city":"Asansol","locality":"Sentrum Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d45"},"city":"Asansol","name":"Manoj Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d46"},"city":"Asansol","name":"Manoj Mini"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d47"},"city":"Barasat","locality":"Berachampa","name":"Rupchhaya Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d48"},"city":"Payyanur","name":"Shanthi Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d49"},"city":"Ramachandrapuram","name":"Surya Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4a"},"city":"Ranipet","name":"DR Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4b"},"city":"Mangalore","locality":"Cineplex","name":"BIG Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4c"},"city":"Mangaluru","locality":"City Centre Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4d"},"city":"Mangalore","locality":"Forum Fiza","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4e"},"city":"Sambalpur","locality":"City Center Mall","name":"Eylex Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d4f"},"city":"Krishnanagar","name":"Sangeeta Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d50"},"city":"Krishnanagar","name":"V Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d51"},"city":"Warora","name":"Satyam Cinemax"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d52"},"city":"Chennai","locality":"Navlur","name":"AGS Cinemas OMR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d53"},"city":"Chennai","locality":"T. Nagar","name":"AGS Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d54"},"city":"Chennai","locality":"Villivakkam","name":"AGS Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d55"},"city":"Chennai","name":"Abirami Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d56"},"city":"Chennai","name":"Anna Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d57"},"city":"Chennai","locality":"Thiruporur","name":"Arul Muruga 2K DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d58"},"city":"Chennai","name":"Casino Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d59"},"city":"Chennai","name":"Ganapathy Ram Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5a"},"city":"Chennai","locality":"Arcot Road","name":"INOX National"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5b"},"city":"Chennai","locality":"Chennai Citi Centre","name":"INOX"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5c"},"city":"Chennai","locality":"Madipakkam","name":"Kumaran Theatre QUBE A/C DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5d"},"city":"Chennai","name":"Luxe Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5e"},"city":"Chennai","name":"Mayajaal Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d5f"},"city":"Chennai","locality":"Ampa","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d60"},"city":"Chennai","locality":"Velachery","name":"PVR"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d61"},"city":"Chennai","name":"Raj Theatre - A/C DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d62"},"city":"Chennai","locality":"JB Estate","name":"Remy Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d63"},"city":"Chennai","name":"Rohini Silver Screens"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d64"},"city":"Chennai","locality":"Alandur","name":"SK-Marlen Cinemas, Guindy"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d65"},"city":"Chennai","locality":"Guduvancheri","name":"Sri Venkateshwara Theatre 2K A/C DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d66"},"city":"Chennai","locality":"Poonamallee","name":"Sri Vigneshwara Theatre DOLBY ATMOS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d67"},"city":"Chennai","name":"Woodlands Complex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d68"},"city":"Dhampur","name":"Bansal Cineplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d69"},"city":"Sagar","name":"Alankar Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6a"},"city":"Sagar","name":"Cine City"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6b"},"city":"Saoner","name":"Maa Minakshi Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6c"},"city":"Allagadda","name":"AV A/c DTS"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6d"},"city":"Champa","name":"Mukund's Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6e"},"city":"Champa","locality":"Chhattisgarh","name":"Trimurti Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d6f"},"city":"Betul","name":"Kantishiva Cinema and S.S. Cineplex Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d70"},"city":"Kasgunj","name":"Novelty Cinema"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d71"},"city":"Rourkela","name":"Cineplexx"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d72"},"city":"Rourkela","name":"PSR Cinema Screen 1"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d73"},"city":"Rourkela","name":"PSR Cinema Screen 2"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d74"},"city":"Tadepalligudem","name":"Lakshmi Narayana Cinemax Screen 1"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d75"},"city":"Tadepalligudem","name":"Lakshmi Narayana Cinemax Screen 2"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d76"},"city":"Tadepalligudem","name":"Sri Venkata Rama Theatre"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d77"},"city":"Bhupalpalle","name":"Anand 70MM"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d78"},"city":"Gondia","name":"EOS Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d79"},"city":"Gondia","name":"Kasish Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d7a"},"city":"Dharuhera","name":"OHM Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d7b"},"city":"Panchmahal","locality":"Kalol","name":"Cinema City Multiplex"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d7c"},"city":"Vidisha","name":"Megh Talkies"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d7d"},"city":"Nadiad","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9244ae4d69f6d33d7e"},"city":"Nadiad","name":"Vaishali Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d7f"},"city":"Anantapur","name":"Ganga Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d80"},"city":"Anantapur","name":"SV Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d81"},"city":"Dibrugarh","name":"Galleria Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d82"},"city":"Pithampur","name":"AYOU Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d83"},"city":"Wanaparthy","name":"Sri Rama Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d84"},"city":"Sheopur","name":"Krishna Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d85"},"city":"Jagatdal","name":"Rajani Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d86"},"city":"Itarsi","name":"Mrityunjaya Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d87"},"city":"Ranchi","locality":"Springcity","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d88"},"city":"Ranchi","locality":"Nucleus Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d89"},"city":"Ranchi","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8a"},"city":"Ranchi","locality":"JD High Street Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8b"},"city":"Ranchi","locality":"Hinoo","name":"Eylex Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8c"},"city":"Ranchi","name":"Plaza Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8d"},"city":"Ranchi","locality":"Galaxia Mall","name":"Popkorn Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8e"},"city":"Ranchi","name":"Sujata Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d8f"},"city":"Shivpuri","name":"Shriram Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d90"},"city":"Manmad","name":"Jayashri Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d91"},"city":"Amalner","name":"Tamboli Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d92"},"city":"Ahmedabad","name":"AB Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d93"},"city":"Ahmedabad","name":"Amber Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d94"},"city":"Ahmedabad","name":"Anupam Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d95"},"city":"Ahmedabad","locality":"Himalaya Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d96"},"city":"Ahmedabad","locality":"Dev Arc","name":"Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d97"},"city":"Ahmedabad","locality":"Red Carpet","name":"Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d98"},"city":"Ahmedabad","locality":"Shiv","name":"Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d99"},"city":"Ahmedabad","locality":"Alpha One Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9a"},"city":"Ahmedabad","name":"City Gold Satellite"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9b"},"city":"Ahmedabad","locality":"Ashram Road","name":"City Gold"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9c"},"city":"Ahmedabad","locality":"Bapunagar","name":"City Gold"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9d"},"city":"Ahmedabad","locality":"Bopal","name":"City Gold"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9e"},"city":"Ahmedabad","locality":"Motera","name":"City Gold"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33d9f"},"city":"Ahmedabad","locality":"Naroda","name":"Devi Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da0"},"city":"Ahmedabad","locality":"SG Highway","name":"K Sera Sera"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da1"},"city":"Ahmedabad","locality":"Krishna Nagar","name":"Miraj Cinemas Cine Pride"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da2"},"city":"Ahmedabad","locality":"Vitthal Plaza","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da3"},"city":"Ahmedabad","name":"Miraj City Pulse"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da4"},"city":"Ahmedabad","locality":"Gulmohar Park Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da5"},"city":"Ahmedabad","locality":"Acropolis","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da6"},"city":"Ahmedabad","locality":"Arved Transcube","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da7"},"city":"Ahmedabad","locality":"Motera","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da8"},"city":"Ahmedabad","locality":"Nikol","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33da9"},"city":"Ahmedabad","locality":"Satadhar","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33daa"},"city":"Ahmedabad","name":"Revolution Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dab"},"city":"Ahmedabad","locality":"Agora Mall","name":"SB Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dac"},"city":"Ahmedabad","locality":"CG Road","name":"Time Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dad"},"city":"Ahmedabad","locality":"Bavla","name":"Vijay Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dae"},"city":"Ahmedabad","name":"Wide Angle"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33daf"},"city":"Tirupur","name":"Sivan Cinemas 3D"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db0"},"city":"Tirupur","name":"Sri Sakthi Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db1"},"city":"Tirupur","name":"Varanashi Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db2"},"city":"Tirupur","name":"Abirame Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db3"},"city":"Tirupur","name":"Charan Theatre 2K"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db4"},"city":"Tirupur","name":"Diamond Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db5"},"city":"Tirupur","name":"MPS 3D Cinemas A/C DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db6"},"city":"Tirupur","name":"Ramlakshman Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db7"},"city":"Tirupur","locality":"Kamanaickenpalayam","name":"Saradha Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db8"},"city":"Tirupur","name":"Shanti Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33db9"},"city":"Tirupur","name":"Sri Gajalakshmi Cinemas 2K A/C"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dba"},"city":"Tirupur","name":"Usha Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dbb"},"city":"Raghunathganj","name":"Chhayabani Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dbc"},"city":"Bobbili","name":"Laxmi Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dbd"},"city":"Erode","name":"Abhirami Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dbe"},"city":"Erode","locality":"Perunthalaiyur","name":"Vijayan Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dbf"},"city":"Haldwani","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc0"},"city":"Dewas","name":"Abhinav And Sanghvi Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc1"},"city":"Dubbaka","name":"Srinivasa Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc2"},"city":"Mohali","locality":"North Country (Gold)","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc3"},"city":"Mohali","locality":"North Country Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc4"},"city":"Amalapuram","name":"Rama Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc5"},"city":"Amalapuram","name":"Sekhar Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc6"},"city":"Amalapuram","name":"Sri Lalitha Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc7"},"city":"Rupnagar","locality":"Ropar","name":"Kalyan Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc8"},"city":"Balod","name":"Vinay Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dc9"},"city":"Darjeeling","locality":"Rink Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dca"},"city":"Nizamabad","name":"Ashok Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dcb"},"city":"Nizamabad","name":"Asian Natraj"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dcc"},"city":"Nizamabad","name":"Devi 70mm"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dcd"},"city":"Nizamabad","name":"Lalitha Mahal"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dce"},"city":"Nizamabad","name":"Tirumala Chitra Mandir"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dcf"},"city":"Nizamabad","name":"Usha Prasad Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd0"},"city":"Nizamabad","name":"Vijay Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd1"},"city":"Kolkata","name":"Bioscope City Center Haldia"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd2"},"city":"Paralakhemundi","name":"Jaya Mahal"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd3"},"city":"Paralakhemundi","name":"Sri Krishna Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd4"},"city":"Paralakhemundi","name":"Sri Laxmi Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd5"},"city":"Ashoknagar","name":"Vivek Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd6"},"city":"Biaora","name":"Vivek Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd7"},"city":"Marripeda","name":"Shanti Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd8"},"city":"Marripeda","name":"Venkateswara Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dd9"},"city":"Bulandshahr","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dda"},"city":"Solan","name":"Sunder Ayaan"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ddb"},"city":"Gogawa","name":"Balaji Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ddc"},"city":"Ambala","locality":"Galaxy Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ddd"},"city":"Ambala","name":"Prime Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dde"},"city":"Kishangarh","name":"Crystal Park Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ddf"},"city":"Mansa","name":"Samrat Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de0"},"city":"Moradabad","name":"Chaddha Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de1"},"city":"Moradabad","locality":"Parshvanath","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de2"},"city":"Moradabad","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de3"},"city":"Warangal","locality":"Hanumakonda","name":"A Plex Ashoka Air-Conditioned"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de4"},"city":"Warangal","locality":"Hanumakonda","name":"Asian Sridevi Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de5"},"city":"Warangal","name":"Laxman Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de6"},"city":"Warangal","locality":"Hanumakonda","name":"Amrutha Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de7"},"city":"Warangal","locality":"Hanumakonda","name":"Asian Vijaya Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de8"},"city":"Warangal","locality":"Kazipet","name":"Bhavani Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33de9"},"city":"Warangal","name":"Devi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dea"},"city":"Warangal","name":"Gemini Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33deb"},"city":"Warangal","name":"Radhika Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dec"},"city":"Warangal","name":"Ram Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ded"},"city":"Warangal","locality":"Kazipet","name":"Sambhavi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dee"},"city":"Warangal","name":"Venkatrama Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33def"},"city":"Zaheerabad","name":"Maheswari Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df0"},"city":"Dahod","name":"Cinemera Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df1"},"city":"Pamuru","name":"Srinivasa KB Cinemax 70MM A/C DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df2"},"city":"Ambur","name":"Sai Sakthi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df3"},"city":"Palia Kalan","name":"Kamal Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df4"},"city":"Sivasagar","name":"Bhaskarjyoti Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df5"},"city":"Alwar","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df6"},"city":"Alwar","name":"Gold Gopal Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df7"},"city":"Arambagh","name":"Sudhanil Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df8"},"city":"Jangareddy Gudem","name":"Sowbhagya Screen 1"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33df9"},"city":"Kullu","name":"Shobla Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dfa"},"city":"Valsad","name":"Cine Park"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dfb"},"city":"Valsad","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dfc"},"city":"Allahabad","locality":"Payal and Jhankar","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dfd"},"city":"Allahabad","locality":"Vinayak","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dfe"},"city":"Allahabad","name":"Raj Karan Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33dff"},"city":"Allahabad","locality":"Mutthiganj","name":"Starworld Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e00"},"city":"Allahabad","name":"Starworld Palace Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e01"},"city":"Rishikesh","name":"Rama Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e02"},"city":"Baramati","name":"Durga City Pride"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e03"},"city":"Baramati","name":"Tara Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e04"},"city":"Tenkasi","name":"PSS Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e05"},"city":"Tenkasi","name":"Padma Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e06"},"city":"Tenkasi","name":"Thaibala Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e07"},"city":"Jhansi","name":"Khilona Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e08"},"city":"Sehore","name":"Lisa Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e09"},"city":"Hoshiarpur","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0a"},"city":"Hoshiarpur","name":"Miraj Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0b"},"city":"Tharad","name":"Vijay Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0c"},"city":"Bijnor","name":"SRS Shoppers Pride Mall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0d"},"city":"Shankarpally","name":"Sri Lakshmi Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0e"},"city":"Kangra","name":"Pearl Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e0f"},"city":"Jalgaon","locality":"Khandesh Central Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e10"},"city":"Jalgaon","name":"Shree Natwar Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e11"},"city":"Gurgaon","locality":"MGF","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e12"},"city":"Gurgaon","locality":"Sohna Road","name":"SRS Celebration Mall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e13"},"city":"Gurugram","locality":"Omaxe Gurgaon Mall","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e14"},"city":"Gurugram","locality":"Ansal Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e15"},"city":"Gurugram","locality":"Raheja Mall","name":"Grand Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e16"},"city":"Gurugram","locality":"Gurgaon Dreamz","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e17"},"city":"Gurgaon","locality":"Ambience (Gold)","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e18"},"city":"Gurgaon","locality":"Ambience","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e19"},"city":"Gurgaon","locality":"City Centre","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1a"},"city":"Gurgaon","locality":"Sahara","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1b"},"city":"Gurgaon","locality":"Star Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1c"},"city":"Thirumalagiri","name":"Venkateswara A/C Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1d"},"city":"Raisinghnagar","name":"Cosmo Palace Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1e"},"city":"Pollachi","name":"Shanti Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e1f"},"city":"Mulkanoor","name":"Annapoorna Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e20"},"city":"Gaya","name":"APR Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e21"},"city":"Raipur","locality":"Colors Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e22"},"city":"Raipur","locality":"City Center Mall","name":"Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e23"},"city":"Raipur","locality":"Ambuja City Centre","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e24"},"city":"Raipur","locality":"City Mall 36","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e25"},"city":"Raipur","locality":"Magneto Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e26"},"city":"Raipur","name":"Prabhat Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e27"},"city":"Raipur","name":"Raj Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e28"},"city":"Raipur","name":"Shyam Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e29"},"city":"Dhuri","name":"MGM Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2a"},"city":"Gulbarga","locality":"SunCiti Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2b"},"city":"Sriganganagar","locality":"Krishna Talkies","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2c"},"city":"Kharagpur","name":"Aurora Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2d"},"city":"Kharagpur","name":"Bombay Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2e"},"city":"Anand","name":"Big Lion Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e2f"},"city":"Anand","name":"Diya Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e30"},"city":"Anand","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e31"},"city":"Anand","locality":"City Pulse Mall","name":"INOX Anand"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e32"},"city":"Anand","name":"Kalpana Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e33"},"city":"Anand","name":"R and S Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e34"},"city":"Anand","name":"Time Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e35"},"city":"Podili","name":"Harikrishna DTS Qube"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e36"},"city":"Junagadh","name":"Suraj Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e37"},"city":"Faizabad","name":"Paradise Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e38"},"city":"Neyveli","name":"Jayapriya Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e39"},"city":"Saharanpur","name":"LX Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3a"},"city":"Saharanpur","locality":"GNG Mall","name":"SRS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3b"},"city":"Godavarikhani","name":"Rajesh Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3c"},"city":"Godavarikhani","name":"Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3d"},"city":"Bilimora","name":"Anand Cine Magic Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3e"},"city":"Mandsaur","locality":"Tirupati Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e3f"},"city":"Mehsana","name":"Wide Angle Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e40"},"city":"Usilampatti","name":"Ponnusamy Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e41"},"city":"Bhopal","locality":"Aashima Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e42"},"city":"Bhopal","locality":"DB Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e43"},"city":"Bhopal","locality":"Century 21 Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e44"},"city":"Bhopal","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e45"},"city":"Bhopal","name":"Bharat Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e46"},"city":"Bhopal","name":"DDX Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e47"},"city":"Bhopal","locality":"MP Nagar","name":"Jyoti Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e48"},"city":"Bhopal","locality":"Peoples Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e49"},"city":"Bhopal","locality":"Aura Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4a"},"city":"Bhopal","name":"Rambha Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4b"},"city":"Bhopal","name":"Rangmahal Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4c"},"city":"Bhopal","name":"Sangam Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4d"},"city":"Bhopal","name":"Sangeet Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4e"},"city":"Tonk","name":"Angel Cinema Tower"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e4f"},"city":"Kumbakonam","name":"Baranika"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e50"},"city":"Kumbakonam","name":"MSM Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e51"},"city":"Delhi","locality":"Cross River Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e52"},"city":"Delhi","locality":"Pacific","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e53"},"city":"Delhi","locality":"Select City Walk","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e54"},"city":"Delhi","locality":"TDI Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e55"},"city":"Delhi","locality":"Chandni Chowk","name":"Abhishek Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e56"},"city":"Delhi","name":"Amba Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e57"},"city":"Delhi","locality":"New Friends Colony","name":"Batra Reels Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e58"},"city":"Delhi","locality":"Odeon Complex","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e59"},"city":"Delhi","locality":"Unity One Mall Rohini","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5a"},"city":"Delhi","locality":"V3S Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5b"},"city":"Delhi","locality":"DLF Place","name":"DT Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5c"},"city":"Delhi","locality":"Savitri Complex GK2","name":"DT Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5d"},"city":"Delhi","locality":"Asaf Ali Road","name":"Delite Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5e"},"city":"Delhi","locality":"Asaf Ali Road","name":"Delite Diamond"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e5f"},"city":"Delhi","locality":"North Square Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e60"},"city":"Delhi","locality":"TDI Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e61"},"city":"Delhi","locality":"Rohini","name":"G3S Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e62"},"city":"Delhi","name":"Gagan Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e63"},"city":"Delhi","locality":"Jangpura Extn","name":"INOX Eros One"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e64"},"city":"Delhi","locality":"Karol Bagh","name":"Liberty Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e65"},"city":"Delhi","locality":"Pitampura","name":"M2K"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e66"},"city":"Delhi","locality":"Rohini","name":"M2K"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e67"},"city":"Delhi","locality":"Subhash Nagar","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e68"},"city":"Delhi","locality":"Pitampura","name":"Movietime"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e69"},"city":"Delhi","locality":"Raja Garden","name":"Movietime"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6a"},"city":"Delhi","locality":"Vasant Kunj","name":"PVR Promenade"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6b"},"city":"Delhi","locality":"3CS","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6c"},"city":"Delhi","locality":"Anupam","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6d"},"city":"Ambience Delhi","locality":"Director's Cut","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6e"},"city":"Delhi","locality":"Naraina","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e6f"},"city":"Delhi","locality":"Plaza-CP","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e70"},"city":"Delhi","locality":"Prashant Vihar","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e71"},"city":"Delhi","locality":"Priya","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e72"},"city":"Delhi","locality":"Rivoli","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e73"},"city":"Delhi","locality":"Sangam","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e74"},"city":"Delhi","locality":"Select City Walk (Gold)","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e75"},"city":"Delhi","locality":"Shalimar Bagh","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e76"},"city":"Delhi","locality":"Vikaspuri","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e77"},"city":"Delhi","locality":"Shahdara","name":"Q Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e78"},"city":"Delhi","name":"Rainforest Adventure 9D"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e79"},"city":"Delhi","locality":"Kashmere Gate","name":"Ritz Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7a"},"city":"Delhi","locality":"Janak Place","name":"Satyam Cineplexes"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7b"},"city":"Delhi","locality":"Nehru Place","name":"Satyam Cineplexes"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7c"},"city":"Delhi","locality":"Patel Nagar","name":"Satyam Cineplexes"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7d"},"city":"Delhi","name":"Seble Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7e"},"city":"Delhi","locality":"Raja Garden","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e7f"},"city":"Mancherial","name":"Asian Srinivasa"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e80"},"city":"Mancherial","name":"Laxmi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e81"},"city":"Mancherial","name":"Sri Venkateswara Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e82"},"city":"Mancherial","name":"Tirumalaa Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e83"},"city":"Shoranur","name":"Geetha Theatre 2K 3D 7.1"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e84"},"city":"Baripada","name":"Roxy Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e85"},"city":"Chandrapur","name":"Abhay Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e86"},"city":"Chandrapur","locality":"Radha Krishna","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e87"},"city":"Arni","name":"Rajeswari Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e88"},"city":"Guntakal","name":"K.P.S Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e89"},"city":"Guntakal","name":"SLV Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8a"},"city":"Yavatmal","name":"E-SQUARE Elements"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8b"},"city":"Yavatmal","name":"Saroj Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8c"},"city":"Udhampur","name":"Raj Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8d"},"city":"Patna","locality":"P\u0026M Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8e"},"city":"Patna","locality":"Regent Theatre","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e8f"},"city":"Sircilla","name":"Natraj Deluxe Theatre A/c"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e90"},"city":"Sircilla","name":"Sri Lakshmi Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e91"},"city":"Ambikapur","name":"Alaknanda Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e92"},"city":"Ambikapur","name":"Basant Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e93"},"city":"Ambikapur","name":"Jaiswal Chitra Mandir"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e94"},"city":"Markapur","name":"Sri Radhakrishna Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e95"},"city":"Ramayampet","name":"Santhosh Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e96"},"city":"Buldana","name":"ARD Cinemall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e97"},"city":"Khandwa","locality":"Abhishek","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e98"},"city":"Kolhapur","locality":"DYP City","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e99"},"city":"Kolhapur","name":"Padma Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9a"},"city":"Kolhapur","name":"Parvati Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9b"},"city":"Kolhapur","name":"Prabhat Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9c"},"city":"Kolhapur","name":"Royal Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9d"},"city":"Balaghat","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9e"},"city":"Pilani","name":"Laxmi Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33e9f"},"city":"Dimapur","name":"Hillstar Digital Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea0"},"city":"Dimapur","name":"Playbox Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea1"},"city":"Bhavnagar","name":"Maxus Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea2"},"city":"Bhavnagar","name":"Top3 Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea3"},"city":"Jetpur","name":"Balaji Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea4"},"city":"Miryalaguda","name":"Srinivasa Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea5"},"city":"Miryalaguda","name":"Venkateswara Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea6"},"city":"Ner Parsopant","name":"Mangala Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea7"},"city":"Tandur","name":"Asian Sri Laxmi Mahal"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea8"},"city":"Tandur","name":"Chandra Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ea9"},"city":"Tandur","name":"Shantha Mahal Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eaa"},"city":"Kakinada","name":"Anand Complex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eab"},"city":"Kakinada","name":"Devi Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eac"},"city":"Kakinada","name":"Padma Priya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ead"},"city":"Kakinada","name":"Satyagouri Dolby DTS E.S"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eae"},"city":"Kakinada","name":"Sri Priya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eaf"},"city":"Kakinada","name":"Sri Tirumala"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb0"},"city":"Shimla","name":"Ritz Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb1"},"city":"Shimla","locality":"New ISBT","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb2"},"city":"Haridwar","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb3"},"city":"Haridwar (Sidcul)","locality":"Pentagon Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb4"},"city":"Gorakhpur","name":"Jubilee Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb5"},"city":"Gorakhpur","name":"Maya Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb6"},"city":"Gorakhpur","locality":"Park Road","name":"SRS City Mall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb7"},"city":"Gorakhpur","name":"United Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb8"},"city":"Gorakhpur","name":"Vijay Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eb9"},"city":"Dharmavaram","name":"Sri Varalakshmi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eba"},"city":"Dharmavaram","name":"Sri Vijayalakshmi A/C Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ebb"},"city":"Ratlam","name":"Gayatri Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ebc"},"city":"Ratlam","name":"Shree Lokendra Cinema (New Chairs)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ebd"},"city":"Gandhidham","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ebe"},"city":"Gandhidham","name":"Om Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ebf"},"city":"Gandhidham","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec0"},"city":"Gandhidham","locality":"Adipur","name":"Vinay Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec1"},"city":"Wani","name":"Deepti Sky Cinex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec2"},"city":"Deoghar","name":"Eylex Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec3"},"city":"Amravati","locality":"Rajesh","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec4"},"city":"Amravati","name":"E Orbit Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec5"},"city":"Amravati","name":"Prabhat Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec6"},"city":"Amravati","name":"Priya Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec7"},"city":"Amravati","name":"Saroj Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec8"},"city":"Kurnool","locality":"Jyoti Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ec9"},"city":"Kurnool","name":"Raj Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eca"},"city":"Muktsar","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ecb"},"city":"Pathankot","locality":"Jagat","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ecc"},"city":"Pathankot","locality":"MSP","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ecd"},"city":"Pathankot","locality":"Novelty Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ece"},"city":"Pathankot","locality":"City Centre Mall","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ecf"},"city":"Tirunelveli","name":"Arunagiri Theatre A/C DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed0"},"city":"Tirunelveli","name":"Perinba Vilas Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed1"},"city":"Tirunelveli","name":"Ram Cinemas A/C BARCO 4K 3D"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed2"},"city":"Tirunelveli","locality":"Ambasamudram","name":"Sri Balaji Cinemas A/C QUBE DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed3"},"city":"Tirunelveli","locality":"Alangulam","name":"TPV Multiplex A/C DOLBY ATMOS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed4"},"city":"Fatehgarh Sahib","name":"Smart Cinemaz"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed5"},"city":"Palasa","name":"Bhaskar Rama Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed6"},"city":"Palasa","name":"Sri Venkateshwara Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed7"},"city":"Nandigama","name":"Lakshmi Prasanna A/C Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed8"},"city":"Bidar","name":"Sapna Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ed9"},"city":"Mandya","name":"Mahaveer Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eda"},"city":"Udgir","name":"Miraj Usha Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33edb"},"city":"Kunkuri","name":"Shivganga Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33edc"},"city":"Manawar","name":"Chaitanya Plaza"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33edd"},"city":"Manawar","name":"Shrikrishna Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ede"},"city":"Hooghly","locality":"Mogra","name":"V Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33edf"},"city":"Thanipadi","name":"Bharat Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee0"},"city":"Hubli","locality":"Urban Oasis Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee1"},"city":"Hubli","locality":"Laxmi","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee2"},"city":"Asika","name":"Ashoka Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee3"},"city":"Boisar","name":"K.T. Multivision"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee4"},"city":"Bengaluru rural","locality":"Vijayapura","name":"Sri Gowrishankar Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee5"},"city":"Berhampur","name":"Gautam Cinema A/c"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee6"},"city":"Siliguri","name":"Biswadeep Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee7"},"city":"Siliguri","name":"Carnival Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee8"},"city":"Siliguri","locality":"City Centre","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ee9"},"city":"Siliguri","locality":"Vega Circle Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eea"},"city":"Siliguri","name":"New Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eeb"},"city":"Vapi","locality":"Gunjan Geet","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eec"},"city":"Vapi","name":"Cine Park Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eed"},"city":"Vapi","name":"Empress Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eee"},"city":"Nagaon","name":"Aditee Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eef"},"city":"Nagaon","name":"Divyajyoti Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef0"},"city":"Nagaon","name":"Krishna Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef1"},"city":"Panipat","locality":"Mittal Mega Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef2"},"city":"Panipat","name":"PK Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef3"},"city":"Panipat","locality":"Fun City","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef4"},"city":"Chilakaluripet","name":"Manga Deluxe"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef5"},"city":"Srikakulam","name":"Kinnera Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef6"},"city":"Srikakulam","name":"SunMax - Chandra Mahal A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef7"},"city":"Srikakulam","name":"Surya Mahal A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef8"},"city":"Srikakulam","name":"AdityaMax - Maruthi Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33ef9"},"city":"Jeypore","name":"Celebration Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33efa"},"city":"Cuttack","name":"Brundaban Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33efb"},"city":"Cuttack","name":"Grand Cinema Hall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33efc"},"city":"Cuttack","name":"Sangam Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33efd"},"city":"Moga","name":"Neelam Nova Cinemaz"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33efe"},"city":"Moga","name":"Orbit Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33eff"},"city":"Neemuch","locality":"Patel Plaza Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f00"},"city":"Neemuch","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f01"},"city":"Neemuch","name":"Sundaram Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f02"},"city":"Sundargarh","name":"PSR Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f03"},"city":"Gandhinagar","locality":"Suman","name":"Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f04"},"city":"Gandhinagar","name":"City Pulse"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f05"},"city":"Gandhinagar","locality":"Gandhinagar","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f06"},"city":"Gandhinagar","locality":"R16","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f07"},"city":"Chhatarpur","name":"Ashoka Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f08"},"city":"Chhatarpur","name":"JP Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f09"},"city":"Sonipat","name":"Maxx Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0a"},"city":"Banki","name":"Durga Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0b"},"city":"Ahmednagar","name":"Asha Square Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0c"},"city":"Ahmednagar","name":"My Cinema E-SQUARE"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0d"},"city":"Amritsar","name":"Aanaam Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0e"},"city":"Amritsar","locality":"Suraj Chanda Tara","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f0f"},"city":"Amritsar","locality":"Alpha One Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f10"},"city":"Amritsar","locality":"Celebration Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f11"},"city":"Amritsar","locality":"Trilium Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f12"},"city":"Siddipet","name":"Asian Venkateshwara"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f13"},"city":"Sakti","name":"Krishna Metro Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f14"},"city":"Parbhani","locality":"Priti","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f15"},"city":"Parbhani","name":"E-SQUARE Anusaya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f16"},"city":"Parbhani","name":"Naresh Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f17"},"city":"Solapur","locality":"Bhagwat","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f18"},"city":"Solapur","name":"E-SQUARE Oasis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f19"},"city":"Solapur","name":"Prabhat Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1a"},"city":"Ramanagara","name":"Shankar Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1b"},"city":"Pandharkawada","name":"Om Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1c"},"city":"Coimbatore","name":"Arasan cinemas A/C 2K Dolby"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1d"},"city":"Coimbatore","name":"Carnatic Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1e"},"city":"Coimbatore","locality":"Fun Republic Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f1f"},"city":"Coimbatore","name":"KG Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f20"},"city":"Coimbatore","name":"Kaveri Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f21"},"city":"Coimbatore","name":"Kovai Shanti Complex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f22"},"city":"Coimbatore","name":"The Central and Kanakadhara Theatres"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f23"},"city":"Nawanshahr","name":"Sutlej Surya Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f24"},"city":"Kalyani","name":"Sangam Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f25"},"city":"Akola","locality":"Radha Krishna","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f26"},"city":"Akola","name":"Vasant Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f27"},"city":"Jammu","name":"Apsara Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f28"},"city":"Jammu","name":"KC Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f29"},"city":"Jammu","name":"Movietime"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2a"},"city":"Jammu","locality":"The Wave Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2b"},"city":"Morena","name":"Mayur Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2c"},"city":"Oddanchatram","name":"Aruna Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2d"},"city":"Burhanpur","name":"Ankita Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2e"},"city":"Kurukshetra","locality":"Kessal Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f2f"},"city":"Gangavati","name":"Asian Sandeep Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f30"},"city":"Dhule","locality":"Manohar","name":"BIG Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f31"},"city":"Dhule","name":"Jyoti Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f32"},"city":"Chandigarh","locality":"Paras Mall","name":"carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f33"},"city":"Chandigarh","locality":"Elante","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f34"},"city":"Chandigarh","name":"Piccadily Square"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f35"},"city":"Chandigarh","locality":"Jagat Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f36"},"city":"Chandigarh","locality":"Republic Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f37"},"city":"Chandigarh","locality":"NH22 Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f38"},"city":"Chandigarh","locality":"Centra","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f39"},"city":"Chandigarh","locality":"Panchkula","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3a"},"city":"Chandigarh","locality":"City Emporium Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3b"},"city":"Jaora","name":"Shabnam Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3c"},"city":"Changanassery","name":"Abhinaya Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3d"},"city":"Changanassery","name":"Anu Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3e"},"city":"Changanassery","name":"Apsara Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f3f"},"city":"Changanassery","name":"Dhanya Remya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f40"},"city":"Dubrajpur","name":"Binapani Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f41"},"city":"Parvathipuram","name":"Soundarya Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f42"},"city":"Parvathipuram","name":"Venkateshwara Kala Mandir"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f43"},"city":"Lavasa","name":"Fun Square Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f44"},"city":"Peddapuram","name":"Veerabhadra Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f45"},"city":"Khopoli","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f46"},"city":"Khopoli","name":"Samuel Multiplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f47"},"city":"Morinda","name":"Salh Surya Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f48"},"city":"Sangola","name":"Shiv Parvati Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f49"},"city":"Dalli Rajhara","name":"Mathur Cineplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4a"},"city":"Seoni","name":"EOS Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4b"},"city":"Kannauj","name":"Chibbra Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4c"},"city":"Kannauj","name":"Narayan Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4d"},"city":"Mussoorie","name":"Ritz Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4e"},"city":"Vizag","locality":"Tagarapuvalasa","name":"Ganesh A/C Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f4f"},"city":"Vizag","name":"Gokul A/C DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f50"},"city":"Vizag","locality":"CMR Central","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f51"},"city":"Vizag","locality":"Varun Beach","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f52"},"city":"Vizag","locality":"Vizag Chitralaya Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f53"},"city":"Vizag","name":"Jagadamba 70mm"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f54"},"city":"Vizag","name":"Jothee A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f55"},"city":"Vizag","locality":"Maddilapalem","name":"Kameswari Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f56"},"city":"Vizag","locality":"Maddilapalem","name":"Kinnera Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f57"},"city":"Vizag","name":"Melody 4K Dolby Atmos"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f58"},"city":"Vizag","locality":"Gujawaka","name":"Mohini 35mm Dolby Atmos"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f59"},"city":"Vizag","locality":"Gujawaka","name":"Mohini 70mm Dolby Atmos"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5a"},"city":"Vizag","locality":"Gujawaka","name":"Mohini Mini"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5b"},"city":"Vizag","locality":"Gopalapatnam","name":"Mourya Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5c"},"city":"Vizag","locality":"Vizag Central","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5d"},"city":"Vizag","locality":"Gopalapatnam","name":"Narasimha a/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5e"},"city":"Vizag","locality":"Kothavalasa","name":"Raja Cine Max A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f5f"},"city":"Vizag","name":"Ramadevi Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f60"},"city":"Vizag","locality":"Chittivalasa","name":"Saptagiri Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f61"},"city":"Vizag","locality":"Gopalapatnam","name":"Satyam A/C Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f62"},"city":"Vizag","name":"Sharada Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f63"},"city":"Vizag","name":"Sree Leela Mahal"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f64"},"city":"Vizag","locality":"Kothavalasa","name":"Sri Jaya A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f65"},"city":"Vizag","locality":"Gopalapatnam","name":"Sri Narasimha a/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f66"},"city":"Vizag","name":"Sri Rama Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f67"},"city":"Vizag","name":"Sri Venkateshwara Screen 1"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f68"},"city":"Vizag","locality":"Tagarapuvalasa","name":"Tata Picture Palace A/c Dts"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f69"},"city":"Vizag","name":"V Max (Screen 1)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6a"},"city":"Vizag","name":"V Max (Screen 2)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6b"},"city":"Vizag","name":"V Max (Screen 3)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6c"},"city":"Jamnagar","name":"Amber Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6d"},"city":"Jamnagar","locality":"Mehul","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6e"},"city":"Jamnagar","locality":"Crystal Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f6f"},"city":"Narsapur","name":"Sri Kanaka Durga Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f70"},"city":"Muzaffarnagar","locality":"ASJ Grand Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f71"},"city":"Muzaffarnagar","name":"Chandra Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f72"},"city":"Muzaffarnagar","name":"Maya Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f73"},"city":"Piduguralla","name":"Sri Ganga Mahal A/C DTS"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f74"},"city":"Digras","name":"Shankar Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f75"},"city":"Durg","name":"Apsara Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f76"},"city":"Durg","locality":"Tarun","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f77"},"city":"Durg","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f78"},"city":"Trichy","name":"LA Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f79"},"city":"Trichy","name":"Manghalam Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7a"},"city":"Trichy","name":"Mega Star Theatre (2K)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7b"},"city":"Trichy","name":"Oorvasi Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7c"},"city":"Trichy","name":"Ramba Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7d"},"city":"Jamshedpur","name":"Eylex Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7e"},"city":"Jamshedpur","name":"Payal Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f7f"},"city":"Palwal","name":"Red Rocks Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f80"},"city":"Phaltan","name":"Cinea City Pride"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f81"},"city":"Idar","name":"Time Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f82"},"city":"Trivandrum","locality":"Thampanoor","name":"New Theatre Dolby Atmos"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f83"},"city":"Trivandrum","name":"SPI Kripa Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f84"},"city":"Trivandrum","name":"Ajanta Theatre 70MM"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f85"},"city":"Trivandrum","name":"Dhanya Remya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f86"},"city":"Trivandrum","locality":"Kadinamkulam","name":"GTracks Screen 1 (VTracks)"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f87"},"city":"Trivandrum","locality":"Kadinamkulam","name":"GTracks Screen 2"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f88"},"city":"Trivandrum","locality":"Attingal","name":"Ganga Complex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f89"},"city":"Trivandrum","locality":"Kazhakuttom","name":"Harisree Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8a"},"city":"Trivandrum","locality":"Peyad","name":"SP Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8b"},"city":"Trivandrum","locality":"Kaliyikkav","name":"Sree Kaleeswary Sree Saraswathy 2K-3D"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8c"},"city":"Trivandrum","locality":"Thampanoor","name":"Sree Kumar Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8d"},"city":"Trivandrum","locality":"Nedumangad","name":"Sree Saraswathi Movie House"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8e"},"city":"Trivandrum","locality":"Thampanoor","name":"Sree Visakh 2K Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f8f"},"city":"Trivandrum","locality":"Nedumangad","name":"Surya Cine House"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f90"},"city":"Trivandrum","locality":"Nedumangad","name":"Surya Paradise"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f91"},"city":"Trivandrum","locality":"Attingal","name":"Vaishaka Cine House 2K"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f92"},"city":"Ranaghat","locality":"Nadia","name":"Ranaghat Talkies"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f93"},"city":"Ranaghat","name":"Surendra Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f94"},"city":"Badaun","name":"J C Picture Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f95"},"city":"Karad","name":"Natraj Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f96"},"city":"Dasuya","name":"President Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f97"},"city":"Kashipur","name":"SRS Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f98"},"city":"Kashipur","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f99"},"city":"Wardha","locality":"Rajkala","name":"Carnival"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9a"},"city":"Bhubaneswar","locality":"BMC Bhawani Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9b"},"city":"Bhubaneshwar","name":"Keshari Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9c"},"city":"Bhubaneshwar","name":"Sriya"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9d"},"city":"Ludhiana","name":"Aarti Palace"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9e"},"city":"Ludhiana","locality":"Doraha","name":"Cine Square Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33f9f"},"city":"Ludhiana","locality":"MBD Neopolis Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa0"},"city":"Ludhiana","locality":"Flamez","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa1"},"city":"Ludhiana","locality":"Pavilion","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa2"},"city":"Ludhiana","locality":"Silver Arc","name":"PVR"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa3"},"city":"Ludhiana","name":"SRS Omaxe Mall"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa4"},"city":"Ludhiana","name":"Solitaire Cinemas"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa5"},"city":"Ludhiana","locality":"The Wave Mall","name":"Wave"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa6"},"city":"Peddapalli","name":"Sangeetha Cinema"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa7"},"city":"Ramnagar","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa8"},"city":"Thodupuzha","name":"Vismaya Cinemax"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fa9"},"city":"Jagtial","name":"VLS Sri Rama Theatre"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33faa"},"city":"Palakkad","name":"Sathya Movie House"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fab"},"city":"Palakkad","name":"Sree Devi Durga A/C Dolby Atmos"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fac"},"city":"Ravulapalem","name":"Akshara Screen1"}
+{"_id":{"$oid":"59073e9344ae4d69f6d33fad"},"city":"Ravulapalem","name":"Venkateswara A/C DTS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fae"},"city":"Ravulapalem","name":"Akshara Screen 2"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33faf"},"city":"Chhindwara","locality":"Parasia","name":"Ascon Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb0"},"city":"Chhindwara","locality":"Alka","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb1"},"city":"Chhindwara","name":"Pankaj Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb2"},"city":"Kolkata","locality":"South City","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb3"},"city":"Kolkata","locality":"Lake Town","name":"Jaya Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb4"},"city":"Kolkata","locality":"Salt Lake","name":"RDB Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb5"},"city":"Kolkata","locality":"Suncity Mall","name":"Arti Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb6"},"city":"Kolkata","locality":"Behala","name":"Asoka Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb7"},"city":"Kolkata","name":"Atindra Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb8"},"city":"Kolkata","name":"Basusree Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fb9"},"city":"Kolkata","locality":"Axis Mall","name":"Bioscope"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fba"},"city":"Kolkata","locality":"Salt Lake","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fbb"},"city":"Kolkata","locality":"Acropolis Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fbc"},"city":"Kolkata","locality":"Lake Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fbd"},"city":"Kolkata","name":"Hind INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fbe"},"city":"Kolkata","locality":"City Center","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fbf"},"city":"Kolkata","locality":"City Centre II","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc0"},"city":"Kolkata","locality":"Forum Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc1"},"city":"Kolkata","locality":"Hiland Park","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc2"},"city":"Kolkata","locality":"Quest Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc3"},"city":"Kolkata","locality":"Quest Mall (Insignia)","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc4"},"city":"Kolkata","locality":"Swabhumi","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc5"},"city":"Kolkata","name":"Indira Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc6"},"city":"Kolkata","locality":"City Mall","name":"Jaya Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc7"},"city":"Kolkata","locality":"Barrackpore","name":"Jayanti Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc8"},"city":"Kolkata","locality":"Barasat","name":"Lali Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fc9"},"city":"Kolkata","locality":"Mukti World Ballygunge","name":"London Paris"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fca"},"city":"Kolkata","name":"Menoka Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fcb"},"city":"Kolkata","name":"Mitra Cinema Hall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fcc"},"city":"Kolkata","name":"Nandan"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fcd"},"city":"Kolkata","locality":"Tollygunge","name":"Navina Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fce"},"city":"Kolkata","name":"Nazrultirtha Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fcf"},"city":"Kolkata","locality":"Avani","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd0"},"city":"Jessore Kolkata","locality":"Diamond Plaza","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd1"},"city":"Kolkata","locality":"Mani Square Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd2"},"city":"Kolkata","name":"Padma Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd3"},"city":"Kolkata","name":"Paradise Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd4"},"city":"Kolkata","name":"Prachi Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd5"},"city":"Kolkata","locality":"Rashbehari Avenue","name":"Priya Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd6"},"city":"Kolkata","name":"Regal Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd7"},"city":"Kolkata","name":"Roxy Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd8"},"city":"Kolkata","locality":"Dunlop","name":"Sonali Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fd9"},"city":"Rajpipla","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fda"},"city":"Surat","locality":"Imperial Square Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fdb"},"city":"Surat","locality":"Rahul Raj","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fdc"},"city":"Surat","name":"Valentine Multiplex (Dolby Atmos)"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fdd"},"city":"Surat","name":"Black Jack Dolby Atmos"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fde"},"city":"Surat","locality":"Iris","name":"Cinemax"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fdf"},"city":"Surat","name":"City Plus Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe0"},"city":"Surat","locality":"DR World","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe1"},"city":"Surat","locality":"VR Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe2"},"city":"Surat","locality":"The Grand Bhagwati","name":"Popcorn"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe3"},"city":"Surat","name":"Raj Imperial, INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe4"},"city":"Surat","locality":"Adajan","name":"Rajhans Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe5"},"city":"Surat","locality":"Piplod","name":"Rajhans Prime Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe6"},"city":"Surat","name":"Rupali Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe7"},"city":"Surat","name":"Rupam Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe8"},"city":"Patran","name":"Om Jee Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fe9"},"city":"Vemulawada","name":"Shiva Rama Krishna Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fea"},"city":"Kovvur","name":"Gayathree"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33feb"},"city":"Kovvur","name":"Lakshmi Gayathree"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fec"},"city":"Fatehpur","name":"M Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fed"},"city":"Raigarh","name":"Kanta Cinema, Gorkha JSPL"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fee"},"city":"Raigarh","name":"RK Moviez"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fef"},"city":"Raigarh","name":"Ramniwas Talkies Airconditioned"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff0"},"city":"Jiaganj","name":"Mahabir Jain Municipalty Cultural"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff1"},"city":"Pune","locality":"Sinhagad Road","name":"Abhiruchi City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff2"},"city":"Pune","locality":"Seasons Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff3"},"city":"Pune","locality":"Mangala Cinema","name":"City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff4"},"city":"Pune","name":"Alka Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff5"},"city":"Pune","locality":"Rasta Peth","name":"Apollo Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff6"},"city":"Pune","locality":"Pimpri","name":"Ashok Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff7"},"city":"Pune","locality":"Kharadi","name":"Bollywood Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff8"},"city":"Pune","locality":"Kalyaninagar (Gold)","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ff9"},"city":"Pune","locality":"Premier Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ffa"},"city":"Pune","locality":"VIP Seasons Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ffb"},"city":"Pune","locality":"WESTEND Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ffc"},"city":"Pune","locality":"Rahatani","name":"City Pride Royal Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ffd"},"city":"Pune","locality":"Kothrud","name":"City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33ffe"},"city":"Pune","locality":"R Deccan","name":"City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d33fff"},"city":"Pune","locality":"Satara Road","name":"City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34000"},"city":"Pune","locality":"Kondhwa","name":"E-SQUARE Konark"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34001"},"city":"Pune","locality":"Pimpri","name":"E-SQUARE Vishal"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34002"},"city":"Pune","locality":"Hinjawadi","name":"E-SQUARE Xion"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34003"},"city":"Pune","locality":"University Road","name":"E-SQUARE"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34004"},"city":"Pune","locality":"Talegaon","name":"Fun Square Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34005"},"city":"Pune","locality":"Sinhagad Road","name":"Fun Time Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34006"},"city":"Pune","locality":"Amanora Town Centre","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34007"},"city":"Pune","locality":"Bund Garden Road","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34008"},"city":"Pune","locality":"Bund Garden Road (Insignia)","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34009"},"city":"Pune","locality":"Fun N Shop","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400a"},"city":"Pune","locality":"Jai Ganesh","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400b"},"city":"Pune","locality":"Royal Heritage Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400c"},"city":"Pune","name":"Kibe Laxmi Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400d"},"city":"Pune","locality":"Narayangaon (Screen 1)","name":"Laxmi Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400e"},"city":"Pune","locality":"Narayangaon (Screen 2)","name":"Laxmi Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3400f"},"city":"Pune","locality":"Satara Road","name":"Laxmi Narayan Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34010"},"city":"Pune","locality":"Aundh","name":"Lost The Plot Rooftop Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34011"},"city":"Pune","locality":"Sadashiv Peth","name":"Neelayam Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34012"},"city":"Pune","locality":"City One Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34013"},"city":"Pune","locality":"Inorbit Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34014"},"city":"Pune","locality":"Nitesh Hub Gold Class","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34015"},"city":"Pune","locality":"Nitesh Hub Premier","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34016"},"city":"Pune","locality":"Phoenix Market City","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34017"},"city":"Pune (Gold)","locality":"Phoenix Market City","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34018"},"city":"Pune","locality":"Shivajinagar","name":"Rahul 70 MM"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34019"},"city":"Pune","locality":"Talegaon","name":"Shri Shivaji Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401a"},"city":"Pune","locality":"Hadapsar","name":"Vaibhav Chitramandir"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401b"},"city":"Pune","locality":"Budhwar Peth","name":"Vasant Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401c"},"city":"Pune","locality":"Camp","name":"Victory Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401d"},"city":"Pune","locality":"Manchar","name":"Vikas Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401e"},"city":"Medak","name":"Gangineni Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3401f"},"city":"Dhanbad","name":"INOX Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34020"},"city":"Bhiwadi","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34021"},"city":"Bhiwadi","locality":"Bhiwadi Genesis Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34022"},"city":"Bhiwadi","locality":"Bhiwadi","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34023"},"city":"Bhiwadi","name":"E4U Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34024"},"city":"Tatipaka","name":"Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34025"},"city":"Banga","name":"Surya Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34026"},"city":"Manipal","locality":"Manipal Central Cinemas","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34027"},"city":"Manali","name":"Piccadily Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34028"},"city":"Adilabad","name":"Natraj 70MM Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34029"},"city":"Adilabad","name":"Natraj Deluxe"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402a"},"city":"Brajrajnagar","name":"Cineplexx"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402b"},"city":"Bathinda","locality":"City Center Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402c"},"city":"Bathinda","locality":"Mittal City Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402d"},"city":"Bathinda","locality":"Peninsula Mall","name":"Q Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402e"},"city":"Kota","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3402f"},"city":"Kota","locality":"Natraj","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34030"},"city":"Kota","locality":"City Mall","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34031"},"city":"Kota","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34032"},"city":"Kota","locality":"Ahluwalias Great Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34033"},"city":"Kota","locality":"Indira Vihar","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34034"},"city":"Tinsukia","name":"Galleria Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34035"},"city":"Tinsukia","name":"Rangghar Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34036"},"city":"Ahmedgarh","name":"Sond Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34037"},"city":"Srivilliputhur","name":"Revathi Theatre DTS QUBE"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34038"},"city":"Mandapeta","name":"Saptagiri Complex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34039"},"city":"Mandapeta","name":"Sri Vijaya Mahal AC Dts"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403a"},"city":"Musiri","name":"Sri Ram Theatre DOLBY 7.1"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403b"},"city":"Rewari","locality":"BMG Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403c"},"city":"Vinukonda","name":"Keerthi Theatre A/C DTS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403d"},"city":"Navsari","name":"Laxmi Cine Magic Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403e"},"city":"Navsari","name":"Rajhans Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3403f"},"city":"Idappadi","name":"Kalaiarangam Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34040"},"city":"Raikal","name":"Maheswari Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34041"},"city":"Bardoli","name":"Alankar Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34042"},"city":"Bokaro","name":"Chandra Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34043"},"city":"Bokaro","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34044"},"city":"Marthandam","name":"Anand Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34045"},"city":"Chidambaram","name":"Mariyappa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34046"},"city":"Jalpaiguri","name":"Art Gallery Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34047"},"city":"Jalpaiguri","name":"Cinebazz"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34048"},"city":"Kadthal","name":"Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34049"},"city":"Silchar","name":"Eylex Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404a"},"city":"Silchar","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404b"},"city":"Khed","locality":"Annand","name":"City Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404c"},"city":"Raebareli","name":"Milan DDPlex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404d"},"city":"Raebareli","name":"Manika Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404e"},"city":"Lonavala","name":"Cinebliss Neelkamal Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3404f"},"city":"Lonavala","name":"Triose Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34050"},"city":"Padampur","name":"Shankar Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34051"},"city":"Sonkatch","name":"Sanjay Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34052"},"city":"Hisar","name":"MG Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34053"},"city":"Hisar","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34054"},"city":"Pusad","name":"Barkha Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34055"},"city":"Pusad","name":"Rajkumar Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34056"},"city":"Abohar","name":"K Sera Sera Miniplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34057"},"city":"Abohar","name":"Miraj Cinemas Kundan Palace"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34058"},"city":"Shivamogga","name":"Mallikarjuna Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34059"},"city":"Shivamogga","name":"Manjunatha Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405a"},"city":"Shivamogga","name":"VeeraBhadreshwara Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405b"},"city":"Shivamogga","name":"Modern Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405c"},"city":"Mysore","locality":"BM Habitat Mall","name":"DRC Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405d"},"city":"Mysore","locality":"Mall of Mysuru","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405e"},"city":"Mysore","locality":"Chamaraja Double Road","name":"Lakshmi Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3405f"},"city":"Mysore","locality":"Mandi Mohalla","name":"Sri Nagaraja Digital 2K Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34060"},"city":"Mysore","locality":"KR Circle","name":"Woodlands Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34061"},"city":"Dharmapuri","name":"Sri Hari Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34062"},"city":"Belagavi","locality":"Kapeel Nucleus Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34063"},"city":"Belagavi","locality":"Camp Road","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34064"},"city":"Vikarabad","name":"Asian Sailaja"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34065"},"city":"Vikarabad","name":"Cinemax"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34066"},"city":"Kaithal","name":"Cine Square Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34067"},"city":"Barwani","name":"Mahendra Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34068"},"city":"Mahbubnagar","name":"Venkateswara Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34069"},"city":"Barmer","name":"Aanchal Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406a"},"city":"Domkal","name":"Zaman Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406b"},"city":"Ajmer","locality":"Ansal Courtyard","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406c"},"city":"Ajmer","locality":"Cineworld","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406d"},"city":"Ajmer","locality":"City Square Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406e"},"city":"Ajmer","name":"MayaMandir Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3406f"},"city":"Ajmer","name":"Miraj Bioscope Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34070"},"city":"Ajmer","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34071"},"city":"Ajmer","name":"Mridang Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34072"},"city":"Tumakuru","locality":"B.H.Road","name":"Maruthi Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34073"},"city":"Tumakuru","locality":"Ashoka Road","name":"Prashanth Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34074"},"city":"Nagpur","locality":"Sangam","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34075"},"city":"Nagpur","locality":"Eternity","name":"Cinemax"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34076"},"city":"Nagpur","locality":"Jaswant Tuli Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34077"},"city":"Nagpur","locality":"Poonam Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34078"},"city":"Nagpur","name":"Jaishree Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34079"},"city":"Nagpur","name":"Janki Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407a"},"city":"Nagpur","name":"Kamal Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407b"},"city":"Nagpur","locality":"Sadar","name":"Liberty Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407c"},"city":"Nagpur","locality":"Empress","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407d"},"city":"Nagpur","name":"Panchsheel Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407e"},"city":"Nagpur","name":"Rajvilas Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3407f"},"city":"Nagpur","name":"Smruti Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34080"},"city":"Nagpur","locality":"Dharampeth","name":"Sudama Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34081"},"city":"Rampur","name":"Diamond Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34082"},"city":"Jhajjar","locality":"First Choice Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34083"},"city":"Puri","name":"Laxmi Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34084"},"city":"Puri","name":"Sri Krishna Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34085"},"city":"Faridabad","locality":"Sector 12","name":"SRS Eldeco Mall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34086"},"city":"Faridabad","locality":"Sector 12","name":"SRS Mall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34087"},"city":"Faridabad","locality":"Pristine Mall","name":"SRS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34088"},"city":"Faridabad","locality":"Crown Interiorz Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34089"},"city":"Faridabad","locality":"Crown Interiorz Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408a"},"city":"Faridabad","locality":"EF3 Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408b"},"city":"Faridabad","locality":"Parsvnath City Mall","name":"MSX Silvercity (Ex Gold)"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408c"},"city":"Faridabad","locality":"Sector 12","name":"MSX Silvercity Parsvnath City Mall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408d"},"city":"Faridabad","locality":"Parsvnath Mall","name":"PM Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408e"},"city":"Faridabad","locality":"Crown Plaza","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3408f"},"city":"Faridabad","locality":"NIT","name":"SRS Shubham Tower"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34090"},"city":"Guntur","name":"Bhaskar Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34091"},"city":"Guntur","name":"Bollywood Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34092"},"city":"Guntur","name":"Cine Square Dolby Atmos A/C"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34093"},"city":"Guntur","name":"Harihar Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34094"},"city":"Guntur","name":"Hollywood Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34095"},"city":"Guntur","name":"Keerthana Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34096"},"city":"Guntur","name":"Krishna Mahal"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34097"},"city":"Guntur","locality":"Kothapet","name":"Metro \u0026 Tollywood Complex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34098"},"city":"Guntur","name":"Naaz Apsara Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34099"},"city":"Guntur","name":"Naaz Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409a"},"city":"Guntur","name":"Pallavi Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409b"},"city":"Guntur","name":"Sri Saraswathi Picture Palace"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409c"},"city":"Guntur","name":"Swamy Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409d"},"city":"Guntur","name":"Venkata Krishna"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409e"},"city":"Keonjhar","name":"PSR Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3409f"},"city":"Satna","name":"Imusica Entertainments"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a0"},"city":"Satna","name":"Twins Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a1"},"city":"Balotra","name":"Neelam Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a2"},"city":"Sangli","name":"Carnival New Pride"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a3"},"city":"Sangli","locality":"SFC Mega Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a4"},"city":"Sangli","name":"Pratap Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a5"},"city":"Sangli","name":"Samarth Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a6"},"city":"Sangli","name":"Swaroop Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a7"},"city":"Surendranagar","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a8"},"city":"Nawapara","name":"Galaxy Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340a9"},"city":"Husnabad","name":"Venkateshwara Kala Mandir"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340aa"},"city":"Latur","locality":"Silver Jubilee Road Savewadi Near Ashok Hotel","name":"Carnival Rama"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ab"},"city":"Latur","locality":"Papvinash Mandir Rd Vyankatesh Nagar Sawe Wadi Near Old Renapur Naka","name":"E-SQUARE Yashoda"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ac"},"city":"Latur","locality":"Plot No-X1/X2 MIDC Ekmat Chowk Barshi Road","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ad"},"city":"Latur","name":"Regal Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ae"},"city":"Nagothane","name":"Sai Chitramandir"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340af"},"city":"Jalalabad","name":"Harkishan Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b0"},"city":"Attili","name":"Sri Venkatrama Hanuman Picture Palace 2K Dolby Dig"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b1"},"city":"Karimnagar","name":"Asian Shiva Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b2"},"city":"Karimnagar","name":"Asian Tirumala"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b3"},"city":"Karimnagar","name":"Mamatha 4K"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b4"},"city":"Karimnagar","name":"Prathima Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b5"},"city":"Karimnagar","name":"Sai Krishna"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b6"},"city":"Karimnagar","name":"Thirandaz Deluxe"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b7"},"city":"Karimnagar","name":"Venkateswara Deluxe 70MM"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b8"},"city":"Udaipur","locality":"Lake City Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340b9"},"city":"Udaipur","name":"Ashoka Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ba"},"city":"Udaipur","locality":"Lake City Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340bb"},"city":"Udaipur","locality":"Celebration Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340bc"},"city":"Kanchikacherla","name":"Dr. PV Rao Cineplex Screen1"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340bd"},"city":"Indore","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340be"},"city":"Indore","name":"Aasttha Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340bf"},"city":"Indore","name":"Anoop Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c0"},"city":"Indore","locality":"Malhar Mega Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c1"},"city":"Indore","locality":"Mangal City","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c2"},"city":"Indore","name":"Dreamland Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c3"},"city":"Indore","locality":"C-21 Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c4"},"city":"Indore","locality":"Sapna Sangeeta Mall Sneha Nagar","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c5"},"city":"Indore","name":"Kastur Deluxe Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c6"},"city":"Indore","name":"Madhumilan Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c7"},"city":"Indore","name":"Manmandir Miniplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c8"},"city":"Indore","locality":"Treasure Island Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340c9"},"city":"Indore","locality":"Treasure Island Mall(Gold)","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ca"},"city":"Indore","name":"Regal Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340cb"},"city":"Indore","name":"Smriti Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340cc"},"city":"Indore","name":"Velocity III"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340cd"},"city":"Indore","name":"Xtreme 7D Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ce"},"city":"Shillong","name":"Bijou Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340cf"},"city":"Shillong","name":"Galleria Anjalee Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d0"},"city":"Shillong","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d1"},"city":"Jaipur","locality":"Elements Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d2"},"city":"Jaipur","locality":"Gaurav Tower Central","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d3"},"city":"Jaipur","locality":"Pink Square Mall","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d4"},"city":"Jaipur","locality":"Cinestar","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d5"},"city":"Jaipur","locality":"Galaxy","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d6"},"city":"Jaipur","locality":"Triton Mega Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d7"},"city":"Jaipur","locality":"World Trade Park Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d8"},"city":"Jaipur","locality":"Jawahar Circle","name":"Entertainment Paradise"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340d9"},"city":"Jaipur","name":"First Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340da"},"city":"Jaipur","name":"Funstar Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340db"},"city":"Jaipur","name":"Golcha Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340dc"},"city":"Jaipur","locality":"City Plaza Mall Bani Park","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340dd"},"city":"Jaipur","locality":"Crystal Palm C Scheme","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340de"},"city":"Jaipur","locality":"Elements Mall Ajmer Road","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340df"},"city":"Jaipur","locality":"Pink Square Mall Adarsh Nagar","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e0"},"city":"Jaipur","locality":"Sunny Trade Center","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e1"},"city":"Jaipur","locality":"Vaibhav Amarapali Circle","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e2"},"city":"Jaipur","locality":"Sanganer","name":"Kohinoor Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e3"},"city":"Jaipur","locality":"Bhagwan Das Road","name":"Raj Mandir Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e4"},"city":"Jadcherla","name":"Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e5"},"city":"Jadcherla","name":"Venkatramana theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e6"},"city":"Hiramandalam","name":"Sri Varalaxmi Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e7"},"city":"Dhamtari","name":"Amar Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e8"},"city":"Dhamtari","name":"Devshri Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340e9"},"city":"Dhamtari","name":"EOS Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ea"},"city":"Dhamtari","name":"Vimal Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340eb"},"city":"Aurangabad (West Bengal)","name":"Shyamal Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ec"},"city":"Kathua","name":"Moonlight Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ed"},"city":"Kamareddy","name":"Priya 70mm"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ee"},"city":"Malout","name":"CCP Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ef"},"city":"Malout","locality":"Sky Mall","name":"Sky Cine"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f0"},"city":"Malout","locality":"H \u0026 J Complex","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f1"},"city":"Dhar","name":"Sheshnag Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f2"},"city":"Dhar","name":"Sheshnag Manmandir Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f3"},"city":"Rishra","name":"Jayanti Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f4"},"city":"Renukoot","name":"HIL Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f5"},"city":"Rajahmundry","name":"Ashoka Theater"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f6"},"city":"Rajahmundry","locality":"Sree Durga (Dowlaiswaram)","name":"Murali Krishna Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f7"},"city":"Rajahmundry","name":"Shyamala Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f8"},"city":"Rajahmundry","locality":"Kadiam","name":"Sri Venkata Surya Picture Palace"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340f9"},"city":"Rajahmundry","name":"Surya Mini"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340fa"},"city":"Rajahmundry","name":"Surya Palace"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340fb"},"city":"Rajahmundry","name":"Swamy Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340fc"},"city":"Rajahmundry","name":"Urvasi Complex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340fd"},"city":"Rajahmundry","name":"VS Mahal A/c Dts (Namavaram)"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340fe"},"city":"Machilipatnam","name":"Sri Ramaraju Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d340ff"},"city":"Bhadrachalam","name":"Asian Uday Bhaskar"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34100"},"city":"Kondagaon","name":"EOS Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34101"},"city":"Malegaon","name":"Cinemax"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34102"},"city":"Narsampet","name":"Jayasri Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34103"},"city":"Kalwakurthy","name":"National Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34104"},"city":"Jagdalpur","name":"Anupama Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34105"},"city":"Jagdalpur","name":"Cine Plus Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34106"},"city":"Jagdalpur","name":"Jhankar Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34107"},"city":"Bolpur","locality":"Gitanjali","name":"V Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34108"},"city":"Kandamangalam","name":"Sri Venkateshwara Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34109"},"city":"Vizianagaram","name":"Aditya Theatre A/c Dts"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410a"},"city":"Vizianagaram","name":"Himigiri A/C DTS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410b"},"city":"Vizianagaram","locality":"NCS Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410c"},"city":"Vizianagaram","name":"New Poorna"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410d"},"city":"Vizianagaram","name":"Ranjani and Shivaranjani"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410e"},"city":"Vizianagaram","name":"Saptagiri A/C DTS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3410f"},"city":"Vizianagaram","name":"Sri Krishna Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34110"},"city":"Vizianagaram","locality":"S.Kota","name":"Sri Srinivasa Mahal A/c Dts"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34111"},"city":"Vizianagaram","name":"Surya Mahal Gajapathinagaram"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34112"},"city":"Durgapur","locality":"Benachity","name":"Arti Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34113"},"city":"Durgapur","locality":"Junction Mall","name":"Bioscope"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34114"},"city":"Durgapur","locality":"City Center","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34115"},"city":"Durgapur","name":"Durgapur Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34116"},"city":"Kodad","name":"Ranga Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34117"},"city":"Kodad","name":"Sai Krishna Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34118"},"city":"Kodad","name":"Srinivasa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34119"},"city":"Irinjalakuda","name":"JK Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411a"},"city":"Kanpur","locality":"Rave 3 Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411b"},"city":"Kanpur","locality":"Rave Moti Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411c"},"city":"Kanpur","locality":"South X","name":"Cinemax"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411d"},"city":"Kanpur","name":"Heer Palace Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411e"},"city":"Kanpur","locality":"Z Square","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3411f"},"city":"Kanpur","name":"Jugal Palace Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34120"},"city":"Kanpur","name":"Manjushree Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34121"},"city":"Kanpur","locality":"Gurdev Pammi","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34122"},"city":"Kanpur","name":"Navrang Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34123"},"city":"Kanpur","name":"Sapna Palace Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34124"},"city":"Kanpur","locality":"Shuklaganj","name":"Saraswati Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34125"},"city":"Kanpur","name":"Shyam Palace Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34126"},"city":"Sarangarh","name":"City Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34127"},"city":"Golaghat","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34128"},"city":"Mangaldoi","name":"Dream Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34129"},"city":"Ujjain","name":"Metro Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412a"},"city":"Ujjain","locality":"Treasure Bazaar Mall","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412b"},"city":"Kothagudem","name":"Maheshwari Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412c"},"city":"Kothagudem","name":"Parameswari Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412d"},"city":"Kothagudem","name":"Vishwaroopa Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412e"},"city":"Sagwara","name":"Ridhima Cinema Hall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3412f"},"city":"Sagwara","name":"Surabhi Cinema Hall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34130"},"city":"Bellary","name":"RR Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34131"},"city":"Pendra","name":"Pooja Shree Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34132"},"city":"Badnawar","name":"Gurukripa Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34133"},"city":"Kawardha","name":"Maa Bhuvaneshwari Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34134"},"city":"Hajipur","locality":"Krishna Mall","name":"SRS Cine"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34135"},"city":"Aligarh","name":"Starworld Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34136"},"city":"Aligarh","name":"Vadra Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34137"},"city":"Karimganj","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34138"},"city":"Badnagar","name":"Anil Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34139"},"city":"Burdwan","locality":"Burdwan Arcade B B Ghosh Road","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413a"},"city":"Burdwan","name":"Shibani Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413b"},"city":"Rahuri","name":"Dnyaneshwar Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413c"},"city":"Yellandu","name":"Kalanjali Theater"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413d"},"city":"Yellandu","name":"Lalitha Kala Mandir"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413e"},"city":"Yellandu","name":"Seetharama Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3413f"},"city":"Mughalsarai","locality":"IP Mughal Multiplex","name":"IP Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34140"},"city":"Patiala","locality":"Nabha","name":"Balraj Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34141"},"city":"Patiala","name":"SRS Omaxe Mall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34142"},"city":"Bhiwani","name":"Suncity Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34143"},"city":"Kotkapura","name":"Fun Plaza"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34144"},"city":"Kotkapura","name":"Orbit Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34145"},"city":"Korutla","name":"Kinnera Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34146"},"city":"Beawar","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34147"},"city":"Beawar","name":"Jai Mandir Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34148"},"city":"Krishnagiri","name":"Apsara Theatre Dts UFO"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34149"},"city":"Krishnagiri","name":"K Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414a"},"city":"Rajnandgaon","name":"Krishna Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414b"},"city":"Rajnandgaon","name":"Shree Kamal Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414c"},"city":"Tuticorin","name":"Cleopatra Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414d"},"city":"Komarapalayam","name":"Gowri Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414e"},"city":"Komarapalayam","name":"Rajam Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3414f"},"city":"Bhatapara","name":"Cityplex Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34150"},"city":"Barnala","name":"9D Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34151"},"city":"Barnala","name":"GE Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34152"},"city":"Barnala","name":"VRC Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34153"},"city":"Angara","name":"Sri Bhimeswara A/C DTS"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34154"},"city":"Bharuch","name":"INOX Shaalimar"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34155"},"city":"Bharuch","locality":"Blue Chip Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34156"},"city":"Bharuch","locality":"Shree Rang Palace Zadeshwar Road","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34157"},"city":"Bharuch","name":"Relief Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34158"},"city":"Bhilai","name":"Chandra Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34159"},"city":"Bhilai","name":"Maurya Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415a"},"city":"Bhilai","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415b"},"city":"Bhilai","name":"New Vasant Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415c"},"city":"Bhilai","locality":"Treasure Island","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415d"},"city":"Bhilai","name":"Sri Venkateshwara Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415e"},"city":"Sarangpur","name":"Gopal Krishna Cineplex Screen 1"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3415f"},"city":"Sarangpur","name":"Gopal Krishna Cineplex Screen 2"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34160"},"city":"Kollam","name":"Archana Aradhana Theatres"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34161"},"city":"Kollam","locality":"Sakthikulagara","name":"Capithan A/C Dts"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34162"},"city":"Kollam","locality":"RP Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34163"},"city":"Kollam","name":"Dhanya Remya"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34164"},"city":"Kollam","name":"NVP Cinema A/C DTS BARCO, Oyoor"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34165"},"city":"Kollam","name":"Pranavam Cinemas A/C DTS 4K"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34166"},"city":"Kadakkal","name":"Sree Sailam Cine House 4K"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34167"},"city":"Kollam","name":"Usha A/C Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34168"},"city":"Dehradun","locality":"City Junction Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34169"},"city":"Dehradun","locality":"Vikas Mall","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416a"},"city":"Dehradun","locality":"Crossroads Mall","name":"Movie Lounge"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416b"},"city":"Dehradun","locality":"Times Square Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416c"},"city":"Dehradun","name":"Natraj Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416d"},"city":"Dehradun","locality":"Pacific","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416e"},"city":"Dehradun","locality":"Rajpur Road","name":"Silver City Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3416f"},"city":"Palvancha","name":"Shanthi Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34170"},"city":"Palvancha","name":"Sri Venkateshwara"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34171"},"city":"Palvancha","name":"Sri Venugopal Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34172"},"city":"Kichha","name":"Urvashi Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34173"},"city":"Hathras","name":"Maya Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34174"},"city":"Jalandhar","locality":"Viva Collage","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34175"},"city":"Jalandhar","locality":"Curo","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34176"},"city":"Jalandhar","locality":"MBD","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34177"},"city":"Jalandhar","name":"Sarb Multiplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34178"},"city":"Basna","name":"City Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34179"},"city":"Dharamsala","name":"Gold Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417a"},"city":"Patan","locality":"City Point","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417b"},"city":"Patan","name":"Time Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417c"},"city":"Sikar","name":"Miraj Bioscope Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417d"},"city":"Guna","name":"Jagat Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417e"},"city":"Guna","name":"Somya Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3417f"},"city":"Pala","name":"Universal Theatre"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34180"},"city":"Paratwada","name":"Shyam Talkies"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34181"},"city":"Pelu","locality":"Meenakshi Cinema","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34182"},"city":"Pattambi","name":"Krishna Cineplex"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34183"},"city":"Cooch Behar","name":"Bhavani Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34184"},"city":"Cooch Behar","name":"New Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34185"},"city":"Banswara","locality":"Nakshatra Mall","name":"Mukta A2 Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34186"},"city":"Jorhat","name":"Eleye Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34187"},"city":"Jorhat","locality":"ABS Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34188"},"city":"Jorhat","name":"Smriti Gopal Cinema Hall"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34189"},"city":"Palanpur","locality":"Surmandir","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418a"},"city":"Natham","name":"Central Cinema"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418b"},"city":"Gobichettipalayam","name":"JayaMaruthi A/C 2K DOLBY 7.1"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418c"},"city":"Noida","locality":"Asaf Ali Road","name":"Delite Diamond"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418d"},"city":"Noida","locality":"Logix","name":"PVR"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418e"},"city":"Delhi","locality":"TDI Mall Rajouri Garden","name":"7D Mastiii"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3418f"},"city":"Noida","locality":"The Gaming Vegas","name":"Area 51 Full Dome"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34190"},"city":"Noida","locality":"New Friends Colony","name":"Batra Reels Cinemas"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34191"},"city":"Noida","locality":"Ansal Plaza","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34192"},"city":"Noida","locality":"Ansal Plaza Palam Vihar","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34193"},"city":"Noida","locality":"Ansal Plaza Vaishali","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34194"},"city":"Noida","locality":"Odeon Complex","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34195"},"city":"Noida","locality":"Pacific Mall Sahibabad","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34196"},"city":"Noida","locality":"TGIP","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34197"},"city":"Noida","locality":"TGIP Ebony Lounge","name":"Carnival"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34198"},"city":"Noida","locality":"Cross River Mall Shahdara","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d34199"},"city":"Noida","locality":"Grand Venice Mall","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9444ae4d69f6d3419a"},"city":"Noida","locality":"V3S Mall Laxmi Nagar","name":"Cinepolis"}
+{"_id":{"$oid":"59073e9544ae4d69f6d3419b"},"city":"Delhi","locality":"DLF Place Saket","name":"DT Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d3419c"},"city":"Noida","locality":"Now PVR","name":"DT Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d3419d"},"city":"Noida","locality":"Savitri Complex GK2","name":"DT Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d3419e"},"city":"Noida","locality":"North Square Mall Pitampura","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d3419f"},"city":"Noida","locality":"TDI Mall Moti Nagar","name":"Fun Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a0"},"city":"Delhi","locality":"Raheja Mall","name":"Grand Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a1"},"city":"Noida","locality":"Jangpura Extn","name":"INOX Eros One"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a2"},"city":"Delhi","locality":"Crown Interiorz Mall Delhi Mathura Road","name":"INOX"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a3"},"city":"Gurgaon","locality":"Gurgaon Dreamz","name":"INOX"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a4"},"city":"Noida","locality":"MSX Mall","name":"INOX"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a5"},"city":"Noida","locality":"Shipra Mall","name":"JAM Multiplex"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a6"},"city":"Noida","locality":"Pitampura","name":"M2K"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a7"},"city":"Noida","locality":"Rohini","name":"M2K"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a8"},"city":"Noida","locality":"Parsvnath City Mall","name":"MSX Silvercity (Ex Gold)"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341a9"},"city":"Noida","locality":"Sector 12","name":"MSX Silvercity Parsvnath City Mall"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341aa"},"city":"Noida","locality":"Subhash Nagar","name":"Miraj Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341ab"},"city":"Noida","locality":"Omaxe NRI Mall","name":"Movietime"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341ac"},"city":"Noida","locality":"Dharam Palace Mall","name":"Movietime"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341ad"},"city":"Noida","locality":"Pitampura","name":"Movietime"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341ae"},"city":"Noida","locality":"Raja Garden","name":"Movietime"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341af"},"city":"Noida","locality":"Parsvnath Mall Manhattan","name":"PM Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b0"},"city":"Delhi","locality":"Director's Cut Ambience","name":"PVR"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b1"},"city":"Noida","locality":"Logix (Gold)","name":"PVR"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b2"},"city":"Noida","locality":"Logix 4DX","name":"PVR"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b3"},"city":"Noida","locality":"Logix Play House","name":"PVR"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b4"},"city":"Ghaziabad","locality":"Indirapuram","name":"SRS Aditya Mall"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b5"},"city":"Noida","locality":"Omaxe Gurgaon Mall Sector 49","name":"SRS Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b6"},"city":"Noida","locality":"Pristine Mall Sector 31","name":"SRS"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b7"},"city":"Noida","name":"Spice Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b8"},"city":"Delhi","locality":"Spice Gold","name":"Spice Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341b9"},"city":"Delhi","locality":"Spice Studio","name":"Spice Cinemas"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341ba"},"city":"Noida","locality":"Vaishali","name":"Star X Cinema"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341bb"},"city":"Noida","locality":"Indirapuram Eros Marketplace","name":"U S Cinemas Eminence Cut"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341bc"},"city":"Noida","locality":"Indirapuram Eros Marketplace","name":"U S Cinemas Europa"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341bd"},"city":"Noida","name":"Wave"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341be"},"city":"Noida","locality":"Raja Garden","name":"Wave"}
+{"_id":{"$oid":"59073e9544ae4d69f6d341bf"},"city":"Noida","locality":"The Wave Mall Kaushambi","name":"Wave"}
