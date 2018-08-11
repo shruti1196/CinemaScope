@@ -1,6 +1,7 @@
 # CinemaScope
 
-An online portal for reservation of movie tickets. Data is being crawled using Selenium from in.bookmyshow.com and stored in a MongoDB database. A Movie Recommendation System is designed using User-based and Item-based Collaborative Filtering.
+An online portal for reservation of movie tickets. Data is being crawled using Selenium from [BookMyShow](https://in.bookmyshow.com/
+) and stored in a MongoDB database. A Movie Recommendation System is designed using User-based Collaborative Filtering.
 
 ## Getting Started
 
