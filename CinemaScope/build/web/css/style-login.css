@@ -1,0 +1,40 @@
+body
+{
+
+}
+
+#contentwrap
+{
+	height: 600px;
+	width: 92%;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+#sidebar
+{
+	font-family: raleway;
+	
+}
+
+#content
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: raleway;
+}
+
+#loginstuff
+{
+	width: 450px;
+	float: left;
+	padding-left: 50px;
+}
+
+#img
+{
+	width: 500px;
+	float: left;
+}

@@ -1,0 +1,74 @@
+body
+{
+
+}
+
+#contentwrap
+{
+	height: 750px;
+	width: 92%;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+}
+
+#sidebar
+{
+	font-family: raleway;
+	
+}
+
+#content
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: raleway;
+}
+
+#img
+{
+	width: 250px;
+	float: left;
+}
+
+#info
+{
+	float: left;
+	width: 780px;
+}
+
+.badge1big{
+	display:inline-block;
+	min-width:10px;
+	padding:3px 7px;
+	font-size:25px;
+	font-weight:300;
+	line-height:1;
+	color:#fff;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	background-color:#000;
+	border-radius:10px;
+}
+
+.badge2big{
+	display:inline-block;
+	min-width:10px;
+	padding:3px 7px;
+	font-size:25px;
+	font-weight:300;
+	line-height:1;
+	color:#fff;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	background-color:#04c;
+	border-radius:10px;
+}
+
+#rating
+{
+    float:left;
+}

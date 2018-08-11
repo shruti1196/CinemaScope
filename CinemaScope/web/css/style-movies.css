@@ -1,0 +1,97 @@
+body
+{
+
+}
+
+#contentwrap
+{
+        overflow: auto;
+	height: 730px;
+	width: 92%;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+#sidebar
+{
+	font-family: raleway;
+	
+}
+
+#content
+{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: raleway;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 230px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+	background-color: white;
+	font-family: raleway;
+}
+
+.container {
+   float: left;
+   width: 240px;
+   position: relative;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute; 
+  bottom: 65px;
+  width: 230px;
+}
+
+.container:hover .image {
+  opacity: 0.4;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.badge2{
+	display:inline-block;
+	min-width:10px;
+	padding:3px 7px;
+	font-size:17px;
+	font-weight:300;
+	line-height:1;
+	color:#fff;
+	text-align:center;
+	white-space:nowrap;
+	vertical-align:middle;
+	background-color:#04c;
+	border-radius:10px;
+}

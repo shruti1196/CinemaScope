@@ -1,0 +1,29 @@
+@font-face
+{
+	font-family: raleway;
+	src: url(Raleway-ExtraLight.ttf);
+}
+
+@font-face
+{
+	font-family: poiret;
+	src: url(PoiretOne-Regular.ttf);
+}
+
+@font-face
+{
+	font-family: indie;
+	src: url(IndieFlower.ttf);
+}
+
+@font-face
+{
+	font-family: adler;
+	src: url(Adler.ttf);
+}
+
+@font-face
+{
+	font-family: travel;
+	src: url(traveling-typewriter.regular.ttf);
+}
